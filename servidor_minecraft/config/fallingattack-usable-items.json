@@ -10,5 +10,7 @@
     "minecraft:golden_axe": false,
     "minecraft:leather_leggings": false,
     "epicsamurai:katana": true,
-    "bn_weapons:katana": true
+    "bn_weapons:katana": true,
+    "minecraft:crossbow": false,
+    "minecraft:diamond_pickaxe": false
 }

@@ -691,6 +691,13 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-04-17 18:48:25 +0000",
+      "junk": "2025-04-17 18:48:46 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_thorns": {
     "criteria": {
       "castle": "2025-04-13 23:26:33 +0000"
@@ -1145,6 +1152,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-17 18:54:12 +0000"
     },
     "done": true
   },
@@ -1813,6 +1826,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-17 18:52:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-14 01:00:52 +0000"
@@ -1831,6 +1850,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:waste": "2025-04-17 18:48:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-13 03:20:59 +0000"
@@ -1840,6 +1865,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-17 18:51:58 +0000"
     },
     "done": true
   },
