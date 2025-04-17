@@ -1282,3 +1282,39 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 18:58:34.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> mrd
 [17Apr2025 18:58:37.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> pendejo
 [17Apr2025 18:58:50.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> te dije k primero las pociones
+[17Apr2025 18:59:17.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/25331, l='ServerLevel[dxdss]', x=-3491.16, y=49.00, z=88.32] died: Headless Warrior was shot by Flancito0_
+[17Apr2025 18:59:37.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/26205, l='ServerLevel[dxdss]', x=-3449.82, y=58.00, z=110.35] died: Headless Warrior was slain by Flancito0_ using    [rompe culos derecha]
+[17Apr2025 19:00:02.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 19:00:06.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 19:00:24.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -270.500000, 77.500000, -275.500000]
+[17Apr2025 19:00:25.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 19:02:34.392] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c1d67f7
+[17Apr2025 19:02:34.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.235.183.21:53251] logged in with entity id 27903 at (43.36662860716465, 80.0, 33.783135683102586)
+[17Apr2025 19:02:34.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[17Apr2025 19:02:36.134] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[17Apr2025 19:02:36.134] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[17Apr2025 19:02:42.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[17Apr2025 19:02:43.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[17Apr2025 19:02:43.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[17Apr2025 19:03:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 19:05:52.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -3766.500000, 50.500000, 57.500000]
+[17Apr2025 19:05:54.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 19:06:14.600] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@369e2840
+[17Apr2025 19:06:14.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:46365] logged in with entity id 30471 at (-1606.2776594925635, 153.0, 2154.046418745246)
+[17Apr2025 19:06:14.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[17Apr2025 19:06:16.018] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[17Apr2025 19:06:16.019] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[17Apr2025 19:06:16.048] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-1595, y=153, z=2009} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[17Apr2025 19:06:22.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[17Apr2025 19:06:23.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[17Apr2025 19:06:23.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[17Apr2025 19:06:29.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Netherite Monstrosity
+[17Apr2025 19:07:09.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Netherite Monstrosity
+[17Apr2025 19:07:13.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Netherite Monstrosity
+[17Apr2025 19:07:37.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Netherite Monstrosity
+[17Apr2025 19:07:40.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Netherite Monstrosity
+[17Apr2025 19:07:40.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Netherite Monstrosity
+[17Apr2025 19:07:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Netherite Monstrosity
+[17Apr2025 19:07:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Netherite Monstrosity
+[17Apr2025 19:08:14.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 19:08:59.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
