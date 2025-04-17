@@ -1575,6 +1575,12 @@
     },
     "done": false
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-17 21:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:41:49 +0000"
@@ -1586,6 +1592,7 @@
       "creeper_head": "2025-04-13 17:23:50 +0000",
       "zombie_head": "2025-04-12 19:09:13 +0000",
       "illager_head": "2025-04-12 19:50:44 +0000",
+      "wither_skeleton_skull": "2025-04-17 21:22:09 +0000",
       "skeleton_skull": "2025-04-13 22:55:22 +0000"
     },
     "done": false
