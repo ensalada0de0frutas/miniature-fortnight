@@ -1303,3 +1303,19 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 17:42:42.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
 [17Apr2025 17:42:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
 [17Apr2025 17:42:42.337] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[17Apr2025 17:44:59.078] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30ae6945
+[17Apr2025 17:44:59.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:58063] logged in with entity id 51454 at (-1142.301696031961, 118.0, -1387.9765528899286)
+[17Apr2025 17:44:59.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[17Apr2025 17:45:01.702] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[17Apr2025 17:45:01.702] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[17Apr2025 17:45:09.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[17Apr2025 17:45:10.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[17Apr2025 17:45:10.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[17Apr2025 17:45:33.140] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alexa'/51489, l='ServerLevel[dxdss]', x=-1085.01, y=126.00, z=-1417.03] died, message: 'Alexa was slain by Vindicator'
+[17Apr2025 17:45:33.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Alexa'/51489, l='ServerLevel[dxdss]', x=-1085.01, y=126.00, z=-1417.03] died: Alexa was slain by Vindicator
+[17Apr2025 17:45:46.190] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stella'/51491, l='ServerLevel[dxdss]', x=-1135.65, y=119.00, z=-1404.49] died, message: 'Stella was slain by Vindicator'
+[17Apr2025 17:45:46.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stella'/51491, l='ServerLevel[dxdss]', x=-1135.65, y=119.00, z=-1404.49] died: Stella was slain by Vindicator
+[17Apr2025 17:50:08.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Demi'/51493, l='ServerLevel[dxdss]', x=-1146.14, y=115.23, z=-1420.31] died, message: 'Demi was slain by Vindicator'
+[17Apr2025 17:50:08.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Demi'/51493, l='ServerLevel[dxdss]', x=-1146.14, y=115.23, z=-1420.31] died: Demi was slain by Vindicator
+[17Apr2025 17:50:15.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Hero of the Village]
+[17Apr2025 17:52:13.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
