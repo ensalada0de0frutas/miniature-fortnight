@@ -395,6 +395,7 @@
       "minecraft:magma_cube": "2025-04-15 01:41:25 +0000",
       "minecraft:spider": "2025-04-12 18:36:13 +0000",
       "minecraft:creeper": "2025-04-13 00:18:42 +0000",
+      "minecraft:wither": "2025-04-17 22:27:40 +0000",
       "minecraft:slime": "2025-04-12 21:03:09 +0000",
       "minecraft:evoker": "2025-04-17 17:49:56 +0000",
       "quark:forgotten": "2025-04-17 20:14:31 +0000",
@@ -1425,6 +1426,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-17 22:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
@@ -2346,6 +2353,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-12 16:39:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-04-17 22:27:41 +0000"
     },
     "done": true
   },

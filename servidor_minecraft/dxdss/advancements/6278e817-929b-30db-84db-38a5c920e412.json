@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-17 22:32:17 +0000"
+    },
+    "done": false
+  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-04-13 00:09:49 +0000"
@@ -752,6 +758,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-04-17 22:32:10 +0000"
     },
     "done": true
   },
@@ -1187,6 +1199,7 @@
       "minecraft:birch_forest": "2025-04-13 00:09:49 +0000",
       "minecraft:beach": "2025-04-17 21:54:27 +0000",
       "minecraft:stony_peaks": "2025-04-17 20:42:53 +0000",
+      "minecraft:dark_forest": "2025-04-17 22:27:55 +0000",
       "minecraft:sparse_jungle": "2025-04-13 16:31:27 +0000",
       "minecraft:river": "2025-04-13 16:07:22 +0000",
       "minecraft:dripstone_caves": "2025-04-13 03:05:41 +0000",
