@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-17 03:25:08 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
@@ -370,9 +376,15 @@
     },
     "done": false
   },
+  "knight_quest:kq_quest_build_great_chalice": {
+    "criteria": {
+      "kq_quest_build_great_chalice": "2025-04-17 03:18:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -409,6 +421,12 @@
   "mca:root": {
     "criteria": {
       "village_taiga": "2025-04-13 01:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-17 05:04:07 +0000"
     },
     "done": true
   },
@@ -576,7 +594,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -754,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-17 05:00:25 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-04-13 16:50:05 +0000"
@@ -841,7 +865,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -865,7 +889,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -971,7 +995,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -1135,7 +1159,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -1610,7 +1634,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -1742,7 +1766,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -1808,7 +1832,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -2112,6 +2136,12 @@
     },
     "done": true
   },
+  "knight_quest:kq_quest_fill_goblet": {
+    "criteria": {
+      "kq_quest_fill_goblet": "2025-04-17 03:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:30:09 +0000"
@@ -2228,7 +2258,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -2246,7 +2276,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },
@@ -2258,7 +2288,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:50:53 +0000"
+      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
     },
     "done": false
   },

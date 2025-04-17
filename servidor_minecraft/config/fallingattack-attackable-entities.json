@@ -1,3 +1,4 @@
 {
-    "minecraft:witch": true
+    "minecraft:witch": true,
+    "minecraft:player": false
 }

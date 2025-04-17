@@ -8,5 +8,6 @@
     "swordinthestone:forest_sword": true,
     "minecraft:leather_chestplate": false,
     "minecraft:golden_axe": false,
-    "minecraft:leather_leggings": false
+    "minecraft:leather_leggings": false,
+    "epicsamurai:katana": true
 }

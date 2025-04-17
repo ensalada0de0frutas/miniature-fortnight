@@ -51,11 +51,58 @@
       },
       "region": "global",
       "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "cities-recommends.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "d536520c-eefb-45b3-a8b1-c1b6f545cbb1",
+          "ip_hostname": "27.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 2840,
+          "port_start": 2839,
+          "region": "global",
+          "static_ip4": "147.185.221.27",
+          "static_ip6": "2602:fbaf:0:1::1b",
+          "tunnel_ip": "2602:fbaf:0:1::1b"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-04-17T02:54:49.862326Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "e2e105d8-1e46-47ff-830b-86322911f4ce",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "agent_id": "4bf146d7-473a-483c-b585-c812157b04d4",
+          "agent_name": "from-key-cb0c",
+          "local_ip": "127.0.0.1",
+          "local_port": 2839
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "claimed": 1,
+    "desired": 1
   }
 }
