@@ -1229,3 +1229,45 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 20:25:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
 [17Apr2025 20:25:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [17Apr2025 20:25:58.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2431.500000, -22.500000, -2090.500000]
+[17Apr2025 20:26:00.311] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Isaul'/15903, l='ServerLevel[dxdss]', x=-1525.39, y=71.56, z=-2398.84] died, message: 'Isaul was slain by Zombie'
+[17Apr2025 20:26:00.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Isaul'/15903, l='ServerLevel[dxdss]', x=-1525.39, y=71.56, z=-2398.84] died: Isaul was slain by Zombie
+[17Apr2025 20:26:00.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 20:26:02.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 20:26:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:27:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:27:21.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 20:27:42.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 20:27:53.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -9.443338876896632,-4.085210392550334,0.12445069077875814
+[17Apr2025 20:27:53.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 7.87715597450142,-5.471917819871589,3.7574763019154034
+[17Apr2025 20:27:53.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 7.9194870840092335,0.5448138607518374,6.201049895244978
+[17Apr2025 20:27:53.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[17Apr2025 20:28:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:29:10.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
+[17Apr2025 20:29:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 20:30:42.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2147.500000, 19.500000, -2276.500000]
+[17Apr2025 20:30:44.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 20:32:45.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 20:38:42.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> no está el jei?
+[17Apr2025 20:38:46.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> si
+[17Apr2025 20:38:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Cover Me in Debris]
+[17Apr2025 20:38:51.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> esta bug
+[17Apr2025 20:38:55.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> por?
+[17Apr2025 20:39:02.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> aa okok
+[17Apr2025 20:41:58.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:43:20.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> alguien tiene un objeto que se llame soul star?
+[17Apr2025 20:43:33.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved wrongly!
+[17Apr2025 20:43:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> sisi
+[17Apr2025 20:43:39.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> cuanto
+[17Apr2025 20:43:42.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no c
+[17Apr2025 20:43:48.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> revisa
+[17Apr2025 20:43:48.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> 7tp u
+[17Apr2025 20:43:55.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[17Apr2025 20:43:55.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3659ms or 73 ticks behind
+[17Apr2025 20:43:55.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> haceme
+[17Apr2025 20:44:07.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 20:44:21.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[17Apr2025 20:44:41.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 20:44:58.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[17Apr2025 20:44:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 20:45:35.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:45:52.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> fran tenes?

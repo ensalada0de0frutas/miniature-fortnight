@@ -1047,12 +1047,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-17 20:21:29 +0000"
-    },
-    "done": false
-  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-04-12 16:07:50 +0000"
@@ -1927,6 +1921,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-17 20:38:49 +0000"
     },
     "done": true
   },
