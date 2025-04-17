@@ -403,6 +403,7 @@
       "minecraft:wither_skeleton": "2025-04-13 01:00:07 +0000",
       "minecraft:husk": "2025-04-13 20:29:22 +0000",
       "minecraft:cave_spider": "2025-04-13 17:23:29 +0000",
+      "quark:wraith": "2025-04-17 22:09:11 +0000",
       "minecraft:piglin": "2025-04-16 18:20:49 +0000",
       "minecraft:enderman": "2025-04-13 16:40:48 +0000",
       "minecraft:vex": "2025-04-17 06:09:00 +0000",
@@ -552,6 +553,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2025-04-17 22:07:04 +0000"
     },
     "done": true
   },
@@ -901,6 +908,12 @@
   "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:16 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-04-17 22:07:50 +0000"
     },
     "done": true
   },
@@ -1306,6 +1319,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-04-17 22:08:41 +0000",
       "incendium:infernal_dunes": "2025-04-14 02:06:43 +0000",
       "incendium:weeping_valley": "2025-04-16 18:09:58 +0000",
       "incendium:quartz_flats": "2025-04-14 01:44:17 +0000",
@@ -1786,6 +1800,12 @@
   "spartanweaponry:warhammer": {
     "criteria": {
       "has_warhammer": "2025-04-12 21:07:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-04-17 22:08:41 +0000"
     },
     "done": true
   },

@@ -1302,3 +1302,30 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 22:01:21.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
 [17Apr2025 22:01:54.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> noduerman
 [17Apr2025 22:02:24.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 22:04:15.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -5201.500000, -26.500000, -3249.500000]
+[17Apr2025 22:04:15.874] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[17Apr2025 22:04:15.874] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[17Apr2025 22:04:15.889] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[17Apr2025 22:04:48.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [The Thing of Ancient Civilization]
+[17Apr2025 22:04:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was blown up by The Harbinger
+[17Apr2025 22:04:59.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ay
+[17Apr2025 22:05:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> menos de 1' lo mate
+[17Apr2025 22:05:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> jeje
+[17Apr2025 22:05:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 22:07:04.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [An Illager Refuge?]
+[17Apr2025 22:07:13.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> entren al grupo de voice mod
+[17Apr2025 22:07:16.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> les aparece?
+[17Apr2025 22:07:16.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 22:07:16.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [The Floor is Tears]
+[17Apr2025 22:07:50.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Through the Gauntlet]
+[17Apr2025 22:07:53.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was blown up by Flancito0_
+[17Apr2025 22:08:37.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 22:08:41.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was shot by Skeleton
+[17Apr2025 22:08:41.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Dust Settles]
+[17Apr2025 22:08:48.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 22:08:55.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 22:08:59.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 22:09:09.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[17Apr2025 22:09:12.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 22:09:51.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Enderman
+[17Apr2025 22:10:37.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
