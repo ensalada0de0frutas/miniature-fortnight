@@ -546,6 +546,7 @@
       "minecraft:spider": "2025-04-13 04:15:44 +0000",
       "minecraft:witch": "2025-04-17 03:16:33 +0000",
       "minecraft:cave_spider": "2025-04-13 16:37:13 +0000",
+      "minecraft:enderman": "2025-04-17 20:43:36 +0000",
       "minecraft:zombie": "2025-04-13 03:03:30 +0000"
     },
     "done": false
@@ -1148,6 +1149,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-17 04:00:53 +0000",
       "minecraft:birch_forest": "2025-04-13 00:09:49 +0000",
+      "minecraft:stony_peaks": "2025-04-17 20:42:53 +0000",
       "minecraft:sparse_jungle": "2025-04-13 16:31:27 +0000",
       "minecraft:river": "2025-04-13 16:07:22 +0000",
       "minecraft:dripstone_caves": "2025-04-13 03:05:41 +0000",
