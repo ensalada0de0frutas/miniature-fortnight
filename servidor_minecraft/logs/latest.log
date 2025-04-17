@@ -1151,3 +1151,15 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 16:40:55.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
 [17Apr2025 16:40:56.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
 [17Apr2025 16:40:56.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[17Apr2025 16:45:00.900] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11cc5899
+[17Apr2025 16:45:00.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:52875] logged in with entity id 2381 at (-1265.4192944016038, 142.0, -1647.8195577213482)
+[17Apr2025 16:45:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[17Apr2025 16:45:03.959] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[17Apr2025 16:45:03.960] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[17Apr2025 16:45:12.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[17Apr2025 16:45:13.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[17Apr2025 16:45:13.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[17Apr2025 16:45:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> q haces aca
+[17Apr2025 16:46:10.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> m acabo de levantar y ya tome algo y hice mi cama xd
+[17Apr2025 16:46:23.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> q wachiturro
+[17Apr2025 16:46:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> y cm vi k abriste el sv me uni a jugar
