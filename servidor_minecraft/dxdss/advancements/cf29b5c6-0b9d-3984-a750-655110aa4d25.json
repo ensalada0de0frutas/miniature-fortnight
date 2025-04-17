@@ -42,6 +42,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-04-17 18:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-04-17 04:09:01 +0000"
@@ -147,7 +153,9 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-17 04:01:27 +0000",
-      "incendium:quartz_flats": "2025-04-17 06:36:10 +0000"
+      "incendium:weeping_valley": "2025-04-17 18:29:07 +0000",
+      "incendium:quartz_flats": "2025-04-17 06:36:10 +0000",
+      "incendium:inverted_forest": "2025-04-17 18:31:32 +0000"
     },
     "done": false
   },

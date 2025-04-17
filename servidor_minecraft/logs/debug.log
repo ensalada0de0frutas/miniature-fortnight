@@ -14095,3 +14095,226 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 18:27:37.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> parta
 [17Apr2025 18:27:40.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> para
 [17Apr2025 18:27:41.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> para que derrotes al boss
+[17Apr2025 18:28:04.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> necesitas posiones de proteccion al fuego si o si
+[17Apr2025 18:28:37.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ya que te tira lava y te tira proyectiles que sin la pocion te hace instakill
+[17Apr2025 18:28:45.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 18:28:45.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 18:28:47.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> usa mis cosas de pociones si queres
+[17Apr2025 18:28:53.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> que tengo berrugas
+[17Apr2025 18:29:09.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_front_left
+[17Apr2025 18:29:09.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_front_right
+[17Apr2025 18:29:09.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_front_left
+[17Apr2025 18:29:09.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_front_left
+[17Apr2025 18:29:09.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_front_left
+[17Apr2025 18:29:09.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_shelf_5wide_0
+[17Apr2025 18:29:09.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_4wide_0
+[17Apr2025 18:29:09.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/mess_md_l_0
+[17Apr2025 18:29:09.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/storeroom_sm_0
+[17Apr2025 18:29:09.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_4
+[17Apr2025 18:29:09.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_1
+[17Apr2025 18:29:09.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_3_covered
+[17Apr2025 18:29:13.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> y tiene todo para como hacer pociones
+[17Apr2025 18:29:21.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ahora voy a comer
+[17Apr2025 18:29:29.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> gracia
+[17Apr2025 18:29:48.585] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[17Apr2025 18:30:03.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:30:03.315] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:30:03.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has reached the goal [Apparitions]
+[17Apr2025 18:30:03.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5336, l='ServerLevel[dxdss]', x=-1274.41, y=83.08, z=-498.37] died: Restless Spirit was slain by Sofx0Loder
+[17Apr2025 18:30:03.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:30:03.516] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:30:03.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:30:03.714] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:31:32.603] [Worker-Main-19/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Apr2025 18:31:32.604] [Worker-Main-19/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Apr2025 18:31:32.604] [Worker-Main-19/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Apr2025 18:31:32.604] [Worker-Main-19/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Apr2025 18:31:32.604] [Worker-Main-19/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Apr2025 18:31:32.604] [Worker-Main-19/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Apr2025 18:31:32.607] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.607] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.607] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.607] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.607] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.608] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.608] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.608] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.608] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.608] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:32.608] [Worker-Main-19/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Apr2025 18:31:44.091] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Apr2025 18:31:44.093] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Apr2025 18:31:44.093] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Apr2025 18:31:44.095] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[17Apr2025 18:31:44.095] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[17Apr2025 18:31:44.126] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[17Apr2025 18:32:11.878] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17Apr2025 18:32:43.423] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_3
+[17Apr2025 18:32:43.435] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_lg
+[17Apr2025 18:32:56.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[17Apr2025 18:32:56.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[17Apr2025 18:32:56.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[17Apr2025 18:32:56.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[17Apr2025 18:32:56.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[17Apr2025 18:32:56.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[17Apr2025 18:32:56.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[17Apr2025 18:32:56.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[17Apr2025 18:32:56.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[17Apr2025 18:32:56.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[17Apr2025 18:32:56.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[17Apr2025 18:32:56.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[17Apr2025 18:32:56.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[17Apr2025 18:32:56.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[17Apr2025 18:32:56.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[17Apr2025 18:32:56.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[17Apr2025 18:32:56.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[17Apr2025 18:32:56.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[17Apr2025 18:32:56.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[17Apr2025 18:32:56.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[17Apr2025 18:32:57.010] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[17Apr2025 18:32:57.947] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[17Apr2025 18:32:57.954] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[17Apr2025 18:32:57.959] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[17Apr2025 18:33:13.789] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house1
+[17Apr2025 18:33:13.801] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/bridge1
+[17Apr2025 18:33:15.690] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mod_integration/keep_create
+[17Apr2025 18:33:15.706] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_back_left
+[17Apr2025 18:33:15.707] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_back_left
+[17Apr2025 18:33:15.708] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_back_left
+[17Apr2025 18:33:15.708] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mobs/skeleton
+[17Apr2025 18:33:15.711] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mod_integration/battle_bridge_gate_create
+[17Apr2025 18:33:15.713] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_back_right
+[17Apr2025 18:33:15.713] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_back_right
+[17Apr2025 18:33:15.714] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_back_right
+[17Apr2025 18:33:15.715] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_back_right
+[17Apr2025 18:33:15.737] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_wall
+[17Apr2025 18:33:15.738] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_end_ruined_0
+[17Apr2025 18:33:15.741] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_2
+[17Apr2025 18:33:15.802] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_0_l
+[17Apr2025 18:33:15.804] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_0_r
+[17Apr2025 18:33:15.805] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_2_l
+[17Apr2025 18:33:15.806] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_2_r
+[17Apr2025 18:33:15.807] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_3_l
+[17Apr2025 18:33:15.808] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_3_r
+[17Apr2025 18:33:15.809] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_4_l
+[17Apr2025 18:33:16.371] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/3
+[17Apr2025 18:33:16.770] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[17Apr2025 18:33:16.790] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[17Apr2025 18:33:17.597] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[17Apr2025 18:33:17.616] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[17Apr2025 18:33:17.643] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[17Apr2025 18:33:17.669] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[17Apr2025 18:33:17.675] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[17Apr2025 18:33:17.960] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[17Apr2025 18:33:17.965] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[17Apr2025 18:33:20.234] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_sm
+[17Apr2025 18:33:21.517] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:starts/junction_lg
+[17Apr2025 18:33:22.340] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:starts/center
+[17Apr2025 18:33:23.239] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_back_left
+[17Apr2025 18:33:23.955] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[17Apr2025 18:33:24.961] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[17Apr2025 18:33:24.982] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_acacia
+[17Apr2025 18:33:24.990] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_birch
+[17Apr2025 18:33:24.998] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_oak
+[17Apr2025 18:33:25.004] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_spruce
+[17Apr2025 18:33:25.014] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_mangrove
+[17Apr2025 18:33:25.021] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_desert
+[17Apr2025 18:33:25.043] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/obelisk1
+[17Apr2025 18:33:25.262] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/4
+[17Apr2025 18:33:26.911] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x5
+[17Apr2025 18:33:36.229] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/statue1
+[17Apr2025 18:33:38.279] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/2
+[17Apr2025 18:33:39.250] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_circle
+[17Apr2025 18:33:45.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 18:33:45.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 18:33:48.835] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[17Apr2025 18:33:48.870] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[17Apr2025 18:33:48.908] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[17Apr2025 18:33:50.050] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior216
+[17Apr2025 18:33:59.722] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior2
+[17Apr2025 18:34:00.825] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_1
+[17Apr2025 18:34:02.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:34:02.118] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:34:08.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:34:08.051] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:35:47.413] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool_small1
+[17Apr2025 18:35:49.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:35:49.562] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:35:49.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:35:49.694] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:35:50.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:35:50.050] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:35:54.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:35:54.544] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:36:02.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:36:02.967] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:36:05.640] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:36:05.641] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:36:06.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:36:06.168] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:36:10.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:36:10.037] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:36:10.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:36:10.589] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:36:11.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:36:11.141] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:36:11.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:36:11.567] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:36:47.492] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/castle
+[17Apr2025 18:36:50.440] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[17Apr2025 18:36:50.442] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[17Apr2025 18:37:00.385] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_double
+[17Apr2025 18:37:01.397] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/conduit_ruin_3
+[17Apr2025 18:37:14.337] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[17Apr2025 18:37:14.348] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/firetower
+[17Apr2025 18:37:14.355] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[17Apr2025 18:37:14.377] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/settlement_large
+[17Apr2025 18:37:14.384] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house2
+[17Apr2025 18:37:14.425] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/6
+[17Apr2025 18:37:14.514] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:obsidilith_arena/base
+[17Apr2025 18:37:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 18:37:24.785] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[17Apr2025 18:37:37.352] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond2
+[17Apr2025 18:37:38.165] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[17Apr2025 18:37:38.361] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_5
+[17Apr2025 18:37:39.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 18:37:39.987] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/classic/town_centers/classic_meeting_point_1/well_top
+[17Apr2025 18:37:40.035] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[17Apr2025 18:37:40.071] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[17Apr2025 18:37:41.228] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue2
+[17Apr2025 18:37:50.543] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[17Apr2025 18:37:54.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 18:37:57.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Pipe Dream]
+[17Apr2025 18:38:00.532] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior1
+[17Apr2025 18:38:01.616] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_tall
+[17Apr2025 18:38:02.123] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/skeleton_shell
+[17Apr2025 18:38:02.204] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[17Apr2025 18:38:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 18:38:09.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:09.767] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:10.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:10.203] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:10.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:10.659] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:11.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:11.067] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:11.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:11.487] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:11.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:11.891] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:12.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:12.299] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:12.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:12.738] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:13.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:13.159] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:13.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:13.589] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:14.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:14.007] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:14.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has reached the goal [Ceci n'est pas un blaze]
+[17Apr2025 18:38:14.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/9542, l='ServerLevel[dxdss]', x=-2490.72, y=59.40, z=-564.80] died: Pipeline Sentry was slain by Sofx0Loder
+[17Apr2025 18:38:14.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:14.413] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 18:38:14.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 18:38:14.845] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
