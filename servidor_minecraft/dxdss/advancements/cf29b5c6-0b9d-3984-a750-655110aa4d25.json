@@ -313,6 +313,7 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-04-13 18:56:10 +0000",
+      "in_better_spider_dungeon": "2025-04-17 22:52:20 +0000",
       "in_better_skeleton_dungeon": "2025-04-13 18:38:41 +0000"
     },
     "done": false
@@ -573,7 +574,8 @@
     "criteria": {
       "creeper_head": "2025-04-15 00:58:53 +0000",
       "zombie_head": "2025-04-16 18:07:19 +0000",
-      "wither_skeleton_skull": "2025-04-13 00:46:02 +0000"
+      "wither_skeleton_skull": "2025-04-13 00:46:02 +0000",
+      "skeleton_skull": "2025-04-17 23:00:57 +0000"
     },
     "done": false
   },
@@ -658,6 +660,12 @@
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-14 01:00:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-04-17 22:59:28 +0000"
     },
     "done": true
   },
@@ -825,6 +833,7 @@
       "minecraft:cave_spider": "2025-04-13 17:19:46 +0000",
       "minecraft:piglin": "2025-04-13 02:44:24 +0000",
       "minecraft:enderman": "2025-04-13 20:08:32 +0000",
+      "minecraft:silverfish": "2025-04-17 23:00:04 +0000",
       "minecraft:endermite": "2025-04-17 05:39:39 +0000",
       "minecraft:vex": "2025-04-17 06:08:38 +0000",
       "minecraft:zombie": "2025-04-12 18:37:17 +0000",
@@ -1034,6 +1043,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:27:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-17 22:52:20 +0000"
     },
     "done": true
   },
@@ -1763,6 +1778,7 @@
       "minecraft:stony_peaks": "2025-04-13 02:19:15 +0000",
       "minecraft:sparse_jungle": "2025-04-12 19:53:14 +0000",
       "minecraft:river": "2025-04-12 19:52:03 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-17 22:49:47 +0000",
       "minecraft:stony_shore": "2025-04-13 17:14:21 +0000",
       "minecraft:snowy_plains": "2025-04-17 19:25:16 +0000",
       "minecraft:dripstone_caves": "2025-04-12 18:44:40 +0000",
@@ -1773,10 +1789,12 @@
       "minecraft:forest": "2025-04-12 16:51:19 +0000",
       "minecraft:lush_caves": "2025-04-12 18:51:51 +0000",
       "minecraft:deep_cold_ocean": "2025-04-13 22:40:24 +0000",
+      "minecraft:frozen_ocean": "2025-04-17 22:45:56 +0000",
       "minecraft:desert": "2025-04-13 23:59:30 +0000",
       "minecraft:jungle": "2025-04-13 02:54:07 +0000",
       "minecraft:ocean": "2025-04-13 17:15:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-12 19:30:47 +0000",
+      "minecraft:snowy_beach": "2025-04-17 22:46:07 +0000",
       "minecraft:windswept_savanna": "2025-04-13 02:57:17 +0000",
       "minecraft:flower_forest": "2025-04-13 01:37:17 +0000",
       "minecraft:frozen_peaks": "2025-04-13 16:38:03 +0000",

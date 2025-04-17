@@ -1368,3 +1368,287 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 22:32:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [17Apr2025 22:32:38.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [17Apr2025 22:33:29.743] [Worker-Main-111/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 22:34:16.880] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/swamp_poor/villagers
+[17Apr2025 22:34:16.881] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/swamp_poor/villagers
+[17Apr2025 22:34:17.490] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/swamp_poor/villagers
+[17Apr2025 22:34:17.490] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/swamp_poor/villagers
+[17Apr2025 22:34:20.891] [Worker-Main-3/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 22:34:27.833] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-62, y=-56, z=1771}
+[17Apr2025 22:34:27.986] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=-54, z=1791}
+[17Apr2025 22:34:27.986] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=-54, z=1791}
+[17Apr2025 22:34:27.987] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-61, y=-53, z=1791}
+[17Apr2025 22:34:29.594] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=-54, z=1791}
+[17Apr2025 22:34:29.594] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=-54, z=1791}
+[17Apr2025 22:34:29.594] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-61, y=-53, z=1791}
+[17Apr2025 22:34:31.959] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-57, z=1787}
+[17Apr2025 22:34:31.960] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=-56, z=1789}
+[17Apr2025 22:34:32.223] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-57, z=1787}
+[17Apr2025 22:34:32.223] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=-56, z=1789}
+[17Apr2025 22:34:36.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[17Apr2025 22:34:36.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[17Apr2025 22:34:36.346] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[17Apr2025 22:34:36.601] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-57, z=1791}
+[17Apr2025 22:35:05.330] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 22:35:05.330] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 22:35:05.330] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 22:35:05.330] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 22:35:11.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [The Cutest Predator]
+[17Apr2025 22:35:23.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3813, y=77, z=-2043} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[17Apr2025 22:35:23.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3813, y=77, z=-2043}
+[17Apr2025 22:35:23.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3812, y=77, z=-2043} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[17Apr2025 22:35:23.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3812, y=77, z=-2043}
+[17Apr2025 22:35:23.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3812, y=76, z=-2043} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[17Apr2025 22:35:23.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-3812, y=76, z=-2043}
+[17Apr2025 22:35:34.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -0.03134353659265798,-2.209979161705462,9.978107217532852
+[17Apr2025 22:35:34.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 7.608020195402332,0.4402160089299656,6.845254769834355
+[17Apr2025 22:35:34.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[17Apr2025 22:36:19.746] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[17Apr2025 22:36:19.747] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[17Apr2025 22:36:19.748] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[17Apr2025 22:36:19.748] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[17Apr2025 22:36:19.748] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[17Apr2025 22:36:19.799] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[17Apr2025 22:36:19.799] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[17Apr2025 22:37:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 22:37:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Cobweb Entanglement]
+[17Apr2025 22:38:29.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 40.500000, 84.500000, 34.500000]
+[17Apr2025 22:38:38.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 22:40:51.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[17Apr2025 22:41:31.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 22:41:49.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Husk
+[17Apr2025 22:41:57.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Husk
+[17Apr2025 22:41:59.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Husk
+[17Apr2025 22:44:17.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 3296.500000, 73.500000, -919.500000]
+[17Apr2025 22:44:27.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 1822.500000, 260.500000, -367.500000]
+[17Apr2025 22:44:33.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2199.500000, 157.500000, 2604.500000]
+[17Apr2025 22:44:38.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 712.500000, 249.500000, -247.500000]
+[17Apr2025 22:44:38.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -2.948900289562289,10.206731165311623,-1.2786493363837508
+[17Apr2025 22:44:41.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 1.4722814565052431,-10.593243982778148,0.18938758882768525
+[17Apr2025 22:44:41.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4363ms or 87 ticks behind
+[17Apr2025 22:44:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -771.500000, 82.500000, -2375.500000]
+[17Apr2025 22:44:49.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 976.500000, 63.500000, -3035.500000]
+[17Apr2025 22:44:54.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -1847.500000, 112.500000, -4111.500000]
+[17Apr2025 22:45:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -747.500000, 115.500000, -2427.500000]
+[17Apr2025 22:45:15.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! 9.79250067292503,0.0,-2.1431389928438875
+[17Apr2025 22:45:15.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! 10.375403154990067,0.0,-2.2694266503581275
+[17Apr2025 22:45:15.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! 10.95768744869963,0.0,-2.399636437947265
+[17Apr2025 22:45:23.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-549, y=76, z=-2389} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[17Apr2025 22:45:23.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-549, y=76, z=-2389}
+[17Apr2025 22:45:23.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-549, y=75, z=-2388} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[17Apr2025 22:45:23.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-549, y=75, z=-2388}
+[17Apr2025 22:45:23.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-549, y=76, z=-2388} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[17Apr2025 22:45:23.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-549, y=76, z=-2388}
+[17Apr2025 22:45:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Husk
+[17Apr2025 22:45:42.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Husk
+[17Apr2025 22:45:48.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Husk
+[17Apr2025 22:46:03.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Husk
+[17Apr2025 22:46:09.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Husk
+[17Apr2025 22:46:32.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -3887.500000, 109.500000, -2255.500000]
+[17Apr2025 22:46:57.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -9.500267334132786,0.0,3.3462637099614767
+[17Apr2025 22:46:57.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.04033702606148,0.0,3.598164205465764
+[17Apr2025 22:46:57.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.578922285551016,0.0,3.8538812350252556
+[17Apr2025 22:46:57.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.116113047959516,0.0,4.11313883312414
+[17Apr2025 22:46:57.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.651995646346677,0.0,4.375678462995893
+[17Apr2025 22:46:57.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.186653220878725,0.0,4.641257305042018
+[17Apr2025 22:46:57.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.720166091761712,0.13349999487400055,4.9096467119366025
+[17Apr2025 22:46:57.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.252609265150568,0.38088353948683107,5.180635827246078
+[17Apr2025 22:46:57.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.784055807697314,0.6643835403212961,5.454024810725059
+[17Apr2025 22:46:57.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -14.314571407860967,0.9478835411557611,5.7296337659240635
+[17Apr2025 22:46:57.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -14.844220795540423,1.0978835471162256,6.007290741170436
+[17Apr2025 22:46:57.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -15.373065026081804,1.2255431318377248,6.286835950820205
+[17Apr2025 22:46:57.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -15.901161856673298,1.3345349686594545,6.5681205720666185
+[17Apr2025 22:47:02.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -2.899761765158246,-9.378930949693654,2.6702614524242563
+[17Apr2025 22:47:02.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -6.626372419867039,0.0,-7.96930431859937
+[17Apr2025 22:47:02.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -7.062322065072294,0.0,-8.361154114355486
+[17Apr2025 22:47:02.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -7.508257255559329,0.0,-8.740821290388794
+[17Apr2025 22:47:02.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[17Apr2025 22:47:06.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -8.184942716166006,0.0,-5.963274573135095
+[17Apr2025 22:47:06.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -8.703137659679669,0.0,-6.25662607016875
+[17Apr2025 22:47:06.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -9.226346143930641,0.0,-6.539877933569187
+[17Apr2025 22:47:06.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -9.754485735556955,0.0,-6.812754882737863
+[17Apr2025 22:47:06.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.28741470650857,0.0,-7.075132643991765
+[17Apr2025 22:47:06.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.824951875244551,-0.13349999487400055,-7.327003554727071
+[17Apr2025 22:47:06.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.366886528936448,-0.38088353948683107,-7.568466974315015
+[17Apr2025 22:47:06.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.912990786682712,-0.6643835403212961,-7.799703494475125
+[17Apr2025 22:47:06.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.463027999486258,-0.9478835411557611,-8.020956820339961
+[17Apr2025 22:47:06.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.01675813764723,-1.2313835419902261,-8.232522747363419
+[17Apr2025 22:47:06.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.573942080620327,-1.5148835428246912,-8.434739033788446
+[17Apr2025 22:47:06.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -14.134142161967247,-1.7983835436591562,-8.628991488605607
+[17Apr2025 22:47:06.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -14.69673956972838,-2.0818835444936212,-8.817508620492845
+[17Apr2025 22:47:06.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -4.073409541669662,0.6420657289499729,9.224303988258725
+[17Apr2025 22:47:06.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -15.260908392282545,-2.3653835453280863,-9.003160167581427
+[17Apr2025 22:47:06.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -15.825888143052907,-2.6488835461625513,-9.18827366404139
+[17Apr2025 22:47:06.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -16.390993127969523,-2.9323835469970163,-9.374720472608715
+[17Apr2025 22:47:06.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -16.955616709824426,-3.2158835478314813,-9.563987434814408
+[17Apr2025 22:47:06.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -17.51923268302562,-3.4993835486659464,-9.757235548088829
+[17Apr2025 22:47:06.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -18.08139311341256,-3.7828835495004114,-9.955352311354545
+[17Apr2025 22:47:06.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -18.641723519656807,-4.066383550334876,-10.158998268324922
+[17Apr2025 22:47:06.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -19.19992114273282,-4.3498835511693414,-10.368637950824905
+[17Apr2025 22:47:06.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -19.755744228701587,-4.6333835520038065,-10.584582815202339
+[17Apr2025 22:47:06.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -20.309005655507463,-4.9168835528382715,-10.807018941685783
+[17Apr2025 22:47:06.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -20.859571564629732,-5.2003835536727365,-11.03602145178229
+[17Apr2025 22:47:06.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -21.40735117992699,-5.4838835545072016,-11.27158240819017
+[17Apr2025 22:47:06.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -21.952808489380004,-5.767383555341667,-11.512714630594473
+[17Apr2025 22:47:06.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -22.496834661943467,-6.050883556176132,-11.757641306838195
+[17Apr2025 22:47:06.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -23.04060126866534,-6.334383557010597,-12.003931242285034
+[17Apr2025 22:47:06.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -23.584991951676784,-6.617883557845062,-12.249569632529983
+[17Apr2025 22:47:06.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -24.13066246035487,-6.901383558679527,-12.492901844323114
+[17Apr2025 22:47:06.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -24.678084022091753,-7.184883559513992,-12.73259551866522
+[17Apr2025 22:47:06.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -25.227583538268846,-7.468383560348457,-12.967593477230821
+[17Apr2025 22:47:06.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -25.779374722555985,-7.751883561182922,-13.197074845138559
+[17Apr2025 22:47:06.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -26.333582075240884,-8.035383562017387,-13.42042419763493
+[17Apr2025 22:47:06.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -26.890262241081473,-8.318883562851852,-13.637197296695831
+[17Apr2025 22:47:06.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -19.777656072102218,-8.602383563686317,-8.186820430667922
+[17Apr2025 22:47:06.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -20.339255709030112,-8.885883564520782,-8.389670174971798
+[17Apr2025 22:47:06.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -20.90323371570412,-9.169383565355247,-8.585397853333234
+[17Apr2025 22:47:11.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -9.502665796793735,-3.0823835529574666,-1.3633123117042487
+[17Apr2025 22:47:11.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.096590389104676,-3.2100431376789516,-1.4484736782515029
+[17Apr2025 22:47:11.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.690515437971044,-3.319034974500667,-1.5336324328841329
+[17Apr2025 22:47:12.597] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 22:47:12.597] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 22:47:12.597] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 22:47:12.597] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 22:47:13.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.096791520868464,0.386651427503665,-1.4473230213561692
+[17Apr2025 22:47:13.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.690720413250347,0.386651427503665,-1.5324597875833206
+[17Apr2025 22:47:13.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.28464933218038,0.386651427503665,-1.6175964019284947
+[17Apr2025 22:47:13.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.096793225851798,0.0,-1.4473132672960674
+[17Apr2025 22:47:13.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.690722334524253,0.0,-1.5324487961438535
+[17Apr2025 22:47:13.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.284651448116165,0.0,-1.6175842968473262
+[17Apr2025 22:47:13.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.878580566135497,0.0,-1.7027197722213714
+[17Apr2025 22:47:13.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.472509688139326,0.0,-1.7878552247984771
+[17Apr2025 22:47:13.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.066438813729292,0.0,-1.8729906568587467
+[17Apr2025 22:47:13.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.660367942547055,0.0,-1.9581260704535453
+[17Apr2025 22:47:13.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -14.254297074269743,0.0,-2.043261467429602
+[17Apr2025 22:47:13.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -14.84822620860723,0.0,-2.128396849449018
+[17Apr2025 22:47:13.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -15.442155345297579,0.0,-2.2135322180070034
+[17Apr2025 22:47:14.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! 17.81787191122112,0.0,2.554073582610272
+[17Apr2025 22:47:14.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! 17.81787191122112,0.0,2.554073582610272
+[17Apr2025 22:47:14.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! 17.81787191122112,0.0,2.554073582610272
+[17Apr2025 22:47:15.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.096795246467082,0.0,-1.4473017075306416
+[17Apr2025 22:47:15.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.690724398951716,0.0,-1.5324369857330566
+[17Apr2025 22:47:15.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.28465355197477,0.0,-1.6175722608559227
+[17Apr2025 22:47:15.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.878582705481676,0.0,-1.7027075332071036
+[17Apr2025 22:47:15.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.47251185942514,0.0,-1.7878428030639952
+[17Apr2025 22:47:15.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.066441013760596,0.0,-1.8729780706757992
+[17Apr2025 22:47:15.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.660370168448935,0.0,-1.9581133362671608
+[17Apr2025 22:47:15.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -14.254299323455598,0.0,-2.0432486000399877
+[17Apr2025 22:47:15.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -14.848228478747842,0.0,-2.128383862176179
+[17Apr2025 22:47:15.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -15.442157634297473,0.0,-2.213519122839898
+[17Apr2025 22:47:15.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -16.036086790079025,0.0,-2.298654382177574
+[17Apr2025 22:47:15.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -16.63001594606976,0.0,-2.3837896403224477
+[17Apr2025 22:47:15.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -17.223945102247853,0.0,-2.468924897393663
+[17Apr2025 22:47:15.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -17.81787425859511,0.0,-2.55406015349854
+[17Apr2025 22:47:15.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -18.411803415094255,0.0,-2.6391954087334852
+[17Apr2025 22:47:15.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -19.005732571729823,0.0,-2.7243306631858104
+[17Apr2025 22:47:15.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -19.59966172848908,0.0,-2.809465916933732
+[17Apr2025 22:47:15.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.690724790777494,0.0,-1.5324347441405735
+[17Apr2025 22:47:15.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.284653947746847,0.0,-1.6175699966834145
+[17Apr2025 22:47:15.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.87858310480624,0.0,-1.7027052487128458
+[17Apr2025 22:47:15.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.472512261946576,0.0,-1.7878405002802538
+[17Apr2025 22:47:17.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.10652469415163,0.0,-1.3369410608693215
+[17Apr2025 22:47:17.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.703361709349338,0.0,-1.3790630131579746
+[17Apr2025 22:47:17.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.300392372533679,0.0,-1.4131385141149622
+[17Apr2025 22:47:17.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.897536437225426,0.0,-1.439117269156668
+[17Apr2025 22:47:17.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.49480351132388,0.0,-1.4580842737314015
+[17Apr2025 22:47:19.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4341, y=72, z=-2348} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[17Apr2025 22:47:19.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-4341, y=72, z=-2348}
+[17Apr2025 22:47:21.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
+[17Apr2025 22:47:23.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.165104920864906,-0.67015142833813,0.3738522159551394
+[17Apr2025 22:47:28.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.188747249659173,0.0,-0.436513221442965
+[17Apr2025 22:47:28.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.78801465260949,0.0,-0.4652832411925374
+[17Apr2025 22:47:28.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.387276688706152,0.0,-0.49424671326141834
+[17Apr2025 22:47:28.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.986533894633794,0.0,-0.523384292413084
+[17Apr2025 22:47:28.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.585786458367693,0.0,-0.552684312612655
+[17Apr2025 22:47:28.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.18507939562005,0.0,-0.5810845496380352
+[17Apr2025 22:47:28.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.784443010255927,0.0,-0.6066907817057654
+[17Apr2025 22:47:29.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.163981314778539,0.0,-0.64035210247539
+[17Apr2025 22:47:42.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5926ms or 118 ticks behind
+[17Apr2025 22:47:47.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.19517008594812,0.10899183682171554,0.227783677892603
+[17Apr2025 22:47:47.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.794974570453633,0.10899183682171554,0.24118469724180613
+[17Apr2025 22:47:47.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.39478362428872,0.10899183682171554,0.25458581868088004
+[17Apr2025 22:47:47.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.994596790521427,0.10899183682171554,0.2679870320007467
+[17Apr2025 22:47:47.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.59441365791099,0.10899183682171554,0.2813883280136906
+[17Apr2025 22:47:50.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4410, y=77, z=-2134} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[17Apr2025 22:47:50.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-4410, y=77, z=-2134}
+[17Apr2025 22:47:50.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.197433097145222,0.0,0.227834239029562
+[17Apr2025 22:47:50.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.797282876131248,0.0,0.2412362703666986
+[17Apr2025 22:47:50.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.397132694997708,0.0,0.25463830259514
+[17Apr2025 22:47:50.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -11.996982549757377,0.0,0.26804033562530094
+[17Apr2025 22:47:50.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -12.596832436820478,0.0,0.28144236937714595
+[17Apr2025 22:47:50.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.196682352956486,0.0,0.2948444037788249
+[17Apr2025 22:47:50.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -13.796532295258658,0.0,0.30824643876485425
+[17Apr2025 22:47:53.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.19745301340754,0.0,0.22783468400757556
+[17Apr2025 22:47:53.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of Sofx0Loder) moved too quickly! -10.797303191019637,0.0,0.24123672425139375
+[17Apr2025 22:47:59.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[17Apr2025 22:48:06.405] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[17Apr2025 22:48:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 22:48:58.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 22:48:59.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 22:49:36.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 238.500000, 63.500000, 1392.500000]
+[17Apr2025 22:51:12.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 180.500000, 71.500000, 653.500000]
+[17Apr2025 22:51:17.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 22:51:20.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 22:51:26.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 22:51:38.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 22:52:18.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -687.500000, 59.500000, 998.500000]
+[17Apr2025 22:52:20.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Cobweb Entanglement]
+[17Apr2025 22:52:32.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -769.500000, 65.500000, 995.500000]
+[17Apr2025 22:52:37.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Vex
+[17Apr2025 22:52:59.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -135.500000, 63.500000, -134.500000]
+[17Apr2025 22:53:05.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 22:56:14.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 40.500000, 84.500000, 34.500000]
+[17Apr2025 22:56:17.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 22:56:58.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[17Apr2025 22:59:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2153.500000, 63.500000, -1641.500000]
+[17Apr2025 22:59:10.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2288.500000, 63.500000, -1543.500000]
+[17Apr2025 22:59:28.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2367.500000, 70.500000, -1524.500000]
+[17Apr2025 22:59:28.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Smoke On The Water]
+[17Apr2025 23:00:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg fell from a high place
+[17Apr2025 23:03:51.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> Hazel Broom
+[17Apr2025 23:03:53.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2505.500000, 63.500000, -1323.500000]
+[17Apr2025 23:04:01.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> Stand
+[17Apr2025 23:04:35.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2796.500000, 111.500000, -1134.500000]
+[17Apr2025 23:04:39.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2202.500000, 66.500000, -1786.500000]
+[17Apr2025 23:04:50.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2238.500000, 71.500000, -1614.500000]
+[17Apr2025 23:05:01.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2231.500000, 70.500000, -1659.500000]
+[17Apr2025 23:05:27.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 23:05:30.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 23:06:05.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 23:07:40.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ walked into fire whilst fighting Phantom
+[17Apr2025 23:07:46.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ walked into fire whilst fighting Phantom
+[17Apr2025 23:08:02.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> se moria
+[17Apr2025 23:08:07.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ahre se moria
+[17Apr2025 23:09:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Minecraft Comes Alive]
+[17Apr2025 23:11:14.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> estaqba afk dx
+[17Apr2025 23:17:36.869] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c93b571
+[17Apr2025 23:17:36.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:52157] logged in with entity id 103545 at (-2140.5, 63.0, -2236.5)
+[17Apr2025 23:17:36.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[17Apr2025 23:17:37.173] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[17Apr2025 23:17:37.174] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[17Apr2025 23:17:42.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[17Apr2025 23:17:43.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[17Apr2025 23:17:43.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[17Apr2025 23:19:44.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-692, y=74, z=-262} BlockPos{x=-693, y=73, z=-262}
+[17Apr2025 23:28:07.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[17Apr2025 23:31:33.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> fran queres novia?
+[17Apr2025 23:31:41.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> no, gracias
+[17Apr2025 23:32:38.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4f2b9086-e2c9-3282-b71b-70cc5b03addc timed out
+[17Apr2025 23:32:38.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Uzumaki0502
+[17Apr2025 23:32:38.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[17Apr2025 23:33:09.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: You logged in from another location
+[17Apr2025 23:33:09.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[17Apr2025 23:33:09.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[17Apr2025 23:33:09.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:44331] logged in with entity id 115420 at (-708.2838952359804, 73.0, -271.40688615819005)
+[17Apr2025 23:33:09.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[17Apr2025 23:33:09.378] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[17Apr2025 23:33:09.379] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[17Apr2025 23:33:13.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[17Apr2025 23:33:14.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[17Apr2025 23:33:14.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[17Apr2025 23:35:00.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Apr2025 23:35:00.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Apr2025 23:35:00.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[17Apr2025 23:35:00.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Apr2025 23:35:00.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[17Apr2025 23:35:00.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Apr2025 23:35:00.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot

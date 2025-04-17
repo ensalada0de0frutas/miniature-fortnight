@@ -12,5 +12,7 @@
     "epicsamurai:katana": true,
     "bn_weapons:katana": true,
     "minecraft:crossbow": false,
-    "minecraft:diamond_pickaxe": false
+    "minecraft:diamond_pickaxe": false,
+    "minecraft:golden_helmet": false,
+    "minecraft:golden_chestplate": false
 }
