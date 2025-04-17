@@ -21044,3 +21044,68 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 23:45:41.720] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [17Apr2025 23:45:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> leo t aviso por si acaso pero revisa la consola pa k no se apague el sv
 [17Apr2025 23:45:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 23:47:07.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[17Apr2025 23:47:07.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 23:47:39.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 23:47:48.467] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Logan}[style={}] has been infected
+[17Apr2025 23:47:48.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Logan'/99350, l='ServerLevel[dxdss]', x=68.13, y=73.00, z=523.09] died, message: 'Logan was slain by Zombie'
+[17Apr2025 23:47:48.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Logan'/99350, l='ServerLevel[dxdss]', x=68.13, y=73.00, z=523.09] died: Logan was slain by Zombie
+[17Apr2025 23:47:55.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 23:47:55.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 23:48:01.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[17Apr2025 23:48:01.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[17Apr2025 23:48:01.764] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of itzloikg
+[17Apr2025 23:48:01.764] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[17Apr2025 23:48:01.890] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[17Apr2025 23:48:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> fran
+[17Apr2025 23:48:37.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> que?
+[17Apr2025 23:48:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> tenes corazon de nautilo?
+[17Apr2025 23:49:24.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> k es eso
+[17Apr2025 23:49:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> el caparazon ese
+[17Apr2025 23:49:47.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> buscalo
+[17Apr2025 23:49:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> corazon nautilo
+[17Apr2025 23:50:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> aah eso
+[17Apr2025 23:50:08.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> caparazon *
+[17Apr2025 23:50:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> si lo tengo
+[17Apr2025 23:50:11.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> dame
+[17Apr2025 23:50:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 23:50:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 23:52:12.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> voy a pagar el scv
+[17Apr2025 23:52:13.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> me voy
+[17Apr2025 23:52:16.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[17Apr2025 23:52:16.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[17Apr2025 23:52:16.707] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Flancito0_
+[17Apr2025 23:52:16.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[17Apr2025 23:52:16.826] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1274, y=142, z=-1653}
+[17Apr2025 23:52:16.826] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1227, y=134, z=-1613}
+[17Apr2025 23:52:16.826] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1226, y=134, z=-1613}
+[17Apr2025 23:52:17.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> mañabna play
+[17Apr2025 23:52:18.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Disconnected
+[17Apr2025 23:52:18.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[17Apr2025 23:52:18.549] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sofx0Loder
+[17Apr2025 23:52:18.549] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder
+[17Apr2025 23:52:20.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Apr2025 23:52:20.843] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[17Apr2025 23:52:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Apr2025 23:52:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Apr2025 23:52:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Apr2025 23:52:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:overworld
+[17Apr2025 23:52:21.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/tht:dimension
+[17Apr2025 23:52:21.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/twilightforest:twilight_forest
+[17Apr2025 23:52:21.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_nether
+[17Apr2025 23:52:21.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_end
+[17Apr2025 23:52:21.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/aether:the_aether
+[17Apr2025 23:52:21.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 23:52:21.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 23:52:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dxdss): All chunks are saved
+[17Apr2025 23:52:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[17Apr2025 23:52:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[17Apr2025 23:52:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2025 23:52:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2025 23:52:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[17Apr2025 23:52:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Apr2025 23:52:21.739] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Apr2025 23:52:21.740] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[17Apr2025 23:52:21.742] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[17Apr2025 23:52:21.743] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./dxdss/serverconfig
+[17Apr2025 23:52:21.743] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
