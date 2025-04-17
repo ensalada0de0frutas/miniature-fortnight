@@ -1329,3 +1329,13 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 22:09:12.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [17Apr2025 22:09:51.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Enderman
 [17Apr2025 22:10:37.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 22:17:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 1850.500000, 107.500000, -9286.500000]
+[17Apr2025 22:19:25.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Deepling Brute
+[17Apr2025 22:19:31.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Deepling Brute
+[17Apr2025 22:19:32.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 22:19:37.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 22:19:54.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[17Apr2025 22:19:54.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg moved too quickly! 7.1778662776167295,3.0,-6.574737726675991
+[17Apr2025 22:20:12.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 22:20:16.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 22:21:28.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
