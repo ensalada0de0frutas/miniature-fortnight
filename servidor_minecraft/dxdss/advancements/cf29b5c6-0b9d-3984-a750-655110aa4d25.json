@@ -155,9 +155,16 @@
       "incendium:infernal_dunes": "2025-04-17 04:01:27 +0000",
       "incendium:weeping_valley": "2025-04-17 18:29:07 +0000",
       "incendium:quartz_flats": "2025-04-17 06:36:10 +0000",
-      "incendium:inverted_forest": "2025-04-17 18:31:32 +0000"
+      "incendium:inverted_forest": "2025-04-17 18:31:32 +0000",
+      "incendium:toxic_heap": "2025-04-17 18:41:35 +0000"
     },
     "done": false
+  },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-04-17 18:40:19 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
     "criteria": {
@@ -234,6 +241,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-04-17 18:38:14 +0000"
     },
     "done": true
   },
@@ -835,6 +848,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-04-17 18:39:10 +0000"
+    },
+    "done": true
+  },
   "twilightforest:naga_armors": {
     "criteria": {
       "armor": "2025-04-13 23:53:16 +0000"
@@ -1072,6 +1091,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-04-17 18:41:35 +0000"
     },
     "done": true
   },
@@ -1670,6 +1695,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-04-17 18:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-13 16:45:44 +0000",
@@ -1914,6 +1945,12 @@
     },
     "done": false
   },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-04-17 18:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:56:41 +0000"
@@ -1942,7 +1979,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-17 04:00:41 +0000",
       "minecraft:nether_wastes": "2025-04-17 03:36:26 +0000",
-      "minecraft:warped_forest": "2025-04-17 03:36:40 +0000"
+      "minecraft:warped_forest": "2025-04-17 03:36:40 +0000",
+      "minecraft:basalt_deltas": "2025-04-17 18:33:56 +0000"
     },
     "done": false
   },
