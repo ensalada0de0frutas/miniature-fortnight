@@ -730,6 +730,12 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-04-17 19:40:32 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -1948,6 +1954,7 @@
       "minecraft:ocean": "2025-04-13 19:01:25 +0000",
       "minecraft:jungle": "2025-04-16 17:46:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 07:00:12 +0000",
+      "minecraft:snowy_beach": "2025-04-17 19:36:45 +0000",
       "minecraft:windswept_savanna": "2025-04-17 04:38:01 +0000",
       "minecraft:flower_forest": "2025-04-14 01:32:10 +0000",
       "minecraft:frozen_peaks": "2025-04-13 16:25:38 +0000",
