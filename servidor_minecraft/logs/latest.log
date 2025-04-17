@@ -1289,3 +1289,16 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 21:49:39.713] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Apr2025 21:49:39.714] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Apr2025 21:49:41.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was burnt to a crisp whilst fighting Sofx0Loder
+[17Apr2025 21:53:14.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[17Apr2025 21:53:17.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 21:54:27.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 21:54:29.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[17Apr2025 21:54:44.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Withering Heights]
+[17Apr2025 21:56:39.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 21:56:57.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 4 entities to Uzumaki0502]
+[17Apr2025 21:56:57.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[17Apr2025 21:57:53.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[17Apr2025 22:00:40.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 22:01:21.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[17Apr2025 22:01:54.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> noduerman
+[17Apr2025 22:02:24.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
