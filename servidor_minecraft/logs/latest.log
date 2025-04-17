@@ -1319,3 +1319,11 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 17:50:08.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Demi'/51493, l='ServerLevel[dxdss]', x=-1146.14, y=115.23, z=-1420.31] died: Demi was slain by Vindicator
 [17Apr2025 17:50:15.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Hero of the Village]
 [17Apr2025 17:52:13.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 17:55:00.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was blown up by Flancito0_
+[17Apr2025 17:56:39.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 17:59:29.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[17Apr2025 18:00:01.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no tienes lingote de de metal antiguo?=
+[17Apr2025 18:00:14.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> no, me lo gaste
+[17Apr2025 18:00:20.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> pucha
+[17Apr2025 18:00:23.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> y la piramide ya no tiene mas
+[17Apr2025 18:00:31.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> hay k buscar otra piramide
