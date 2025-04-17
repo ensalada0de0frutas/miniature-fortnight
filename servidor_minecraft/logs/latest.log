@@ -1166,3 +1166,89 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 16:59:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 2458.500000, 229.500000, -414.500000]
 [17Apr2025 17:00:42.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Quest: Silver Knight]
 [17Apr2025 17:02:38.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 17:03:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Cover Me in Debris]
+[17Apr2025 17:03:59.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Quest: Forze Knight]
+[17Apr2025 17:04:03.250] [Worker-Main-64/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[17Apr2025 17:04:03.286] [Worker-Main-64/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[17Apr2025 17:04:03.287] [Worker-Main-64/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[17Apr2025 17:04:49.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> te vendo gafas de visioin nocturna
+[17Apr2025 17:04:56.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> que pedis
+[17Apr2025 17:05:03.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> netherita
+[17Apr2025 17:05:21.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> cuanto exactamente?
+[17Apr2025 17:05:25.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> cuanto das?
+[17Apr2025 17:06:08.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> puedo ofrecer 5 pero tendria que ir a conseguir ya que me acabo e gastar lo que tenia, solo me queda 1 pero puedo ir a farmear mas
+[17Apr2025 17:06:20.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> bno, te espero
+[17Apr2025 17:06:22.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> me sirve
+[17Apr2025 17:06:31.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> :catjam::catjam::catjam:
+[17Apr2025 17:08:23.691] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[17Apr2025 17:09:06.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -10.304980454851375,0.9868964108500222,-4.289138664268648
+[17Apr2025 17:09:11.623] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.623] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.623] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.623] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.623] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:11.624] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Apr2025 17:09:15.857] [Worker-Main-75/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:15.858] [Worker-Main-75/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:15.858] [Worker-Main-75/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:15.859] [Worker-Main-75/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:19.547] [Worker-Main-87/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 17:09:26.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[17Apr2025 17:09:27.661] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=138, z=-19}
+[17Apr2025 17:09:27.661] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=138, z=-20}
+[17Apr2025 17:09:27.662] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=138, z=-17}
+[17Apr2025 17:09:27.662] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=138, z=-22}
+[17Apr2025 17:09:35.739] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:35.740] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:35.750] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:35.750] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:35.750] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:09:37.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -5.2113784695161485,1.1870799985718747,-11.8088150681956
+[17Apr2025 17:09:45.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4267ms or 85 ticks behind
+[17Apr2025 17:09:57.693] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=721, y=-57, z=103}
+[17Apr2025 17:09:58.915] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=721, y=-57, z=103}
+[17Apr2025 17:09:59.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -7.471571110358582,-4.0,-5.3732771992081325
+[17Apr2025 17:10:09.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -7.559735196978181,1.0849536050095026,-8.773872120013948
+[17Apr2025 17:10:12.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -6.656651106437494,1.4153009118213191,-8.021411554215774
+[17Apr2025 17:10:13.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[17Apr2025 17:10:14.026] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[17Apr2025 17:10:14.940] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:10:14.940] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:10:14.940] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:10:14.940] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:10:59.860] [Worker-Main-76/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 17:11:23.825] [Worker-Main-87/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:11:24.792] [Worker-Main-64/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 17:11:32.185] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:11:32.185] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:11:32.186] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:11:32.186] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:11:38.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -16.45024879503262,13.864219773229394,0.13886120481356556
+[17Apr2025 17:11:41.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[17Apr2025 17:12:20.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -11.241772958996535,0.7178204924618683,0.1129120426735426
+[17Apr2025 17:12:23.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -11.43931515425902,0.29846407602742886,0.3233068621420898
+[17Apr2025 17:12:23.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
+[17Apr2025 17:12:49.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -9.993168181683359,2.4936949186120785,-1.1475138670107299
+[17Apr2025 17:12:50.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17Apr2025 17:14:16.468] [Worker-Main-74/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:14:27.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -23.01794355308266,-3.2509868412241616,3.8808901773568323
+[17Apr2025 17:15:17.841] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:15:17.841] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:15:17.841] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:15:17.842] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 17:15:41.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -9.258781287700003,-0.9787100539594462,-3.869547693356708
+[17Apr2025 17:15:41.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[17Apr2025 17:17:35.622] [Worker-Main-76/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 17:22:45.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> estas en tu casa?
+[17Apr2025 17:22:50.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> nao
+[17Apr2025 17:22:52.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> por
+[17Apr2025 17:23:00.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ya tengo los lingotes
