@@ -15293,3 +15293,179 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 21:31:41.778] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [17Apr2025 21:31:44.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [17Apr2025 21:31:44.036] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:31:57.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 21:32:03.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> afk
+[17Apr2025 21:32:04.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 4 entities to Sofx0Loder]
+[17Apr2025 21:32:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 21:32:12.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 21:32:12.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 21:32:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 4 entities to Sofx0Loder]
+[17Apr2025 21:32:18.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:32:18.004] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:32:18.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:32:18.539] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:32:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 4 entities to Sofx0Loder]
+[17Apr2025 21:32:23.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:32:23.087] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:32:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was killed by [Intentional Game Design]
+[17Apr2025 21:32:31.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg went up in flames
+[17Apr2025 21:32:31.774] [Server thread/DEBUG] [twilightforest/]: Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) respawned and received items held in storage
+[17Apr2025 21:32:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 21:32:40.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> afk
+[17Apr2025 21:32:44.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> voy a merendar
+[17Apr2025 21:32:48.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: puto
+[17Apr2025 21:32:48.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[17Apr2025 21:32:48.462] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Flancito0_
+[17Apr2025 21:32:48.463] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[17Apr2025 21:32:48.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Flancito0_: puto]
+[17Apr2025 21:32:48.471] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.474] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.490] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.504] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Apr2025 21:32:48.510] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.538] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.554] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.594] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.614] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.630] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.654] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.674] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.694] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.718] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.734] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.758] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.778] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.794] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.818] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.846] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.870] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.874] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.906] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.922] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:32:48.938] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 807d4b02-2892-3ac2-a000-a9c5173caa95 does not have a secret
+[17Apr2025 21:33:20.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:33:20.654] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:34:14.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:34:14.783] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:34:16.580] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:34:16.580] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:34:18.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:34:18.153] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:34:37.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:34:37.303] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:34:37.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:34:37.902] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:34:48.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:34:48.875] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:35:12.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:35:12.765] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:35:13.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:35:13.359] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:35:28.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:35:28.430] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:35:28.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:35:28.826] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:35:29.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:35:29.701] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:35:33.778] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:35:33.778] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:35:35.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:35:35.530] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:35:35.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:35:35.922] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:36:09.815] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[17Apr2025 21:37:12.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 21:37:12.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 21:38:41.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:38:41.876] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:38:42.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:38:42.729] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:38:42.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:38:42.731] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:38:43.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:38:43.306] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:38:52.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:38:52.473] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:38:53.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:38:53.085] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:38:57.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:38:57.222] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:04.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:04.561] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:05.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:05.003] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> m perdi
+[17Apr2025 21:39:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[17Apr2025 21:39:16.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:16.033] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:20.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:20.221] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:21.474] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:21.474] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:23.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:23.329] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:23.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:23.330] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:23.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:23.937] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:23.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:23.940] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:23.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:23.940] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:24.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:24.367] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:24.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:24.533] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:26.952] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:26.952] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:28.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:28.133] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[17Apr2025 21:39:41.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:41.128] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:55.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:55.375] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:57.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:57.302] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:39:59.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:39:59.430] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:40:00.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:40:00.488] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:40:01.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:40:01.132] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:40:04.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was burnt to a crisp whilst fighting Sofx0Loder
+[17Apr2025 21:40:06.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:40:06.733] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:40:06.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Sofx0Loder
+[17Apr2025 21:40:07.046] [Server thread/DEBUG] [twilightforest/]: Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) respawned and received items held in storage
+[17Apr2025 21:40:07.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_3
+[17Apr2025 21:40:07.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_4
+[17Apr2025 21:40:09.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[17Apr2025 21:40:10.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was burnt to a crisp whilst fighting Wither Skeleton
+[17Apr2025 21:40:30.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:40:30.979] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:40:31.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:40:31.867] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:40:32.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:40:32.654] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:40:36.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was burnt to a crisp whilst fighting Blaze
+[17Apr2025 21:40:38.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[17Apr2025 21:40:56.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -270.500000, 77.500000, -275.500000]
+[17Apr2025 21:41:02.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[17Apr2025 21:41:29.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:41:29.021] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:41:29.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:41:29.608] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:41:29.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Uzumaki0502
+[17Apr2025 21:41:31.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:41:31.323] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:41:31.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Uzumaki0502
+[17Apr2025 21:41:31.566] [Server thread/DEBUG] [twilightforest/]: Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) respawned and received items held in storage
+[17Apr2025 21:41:41.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:41:41.626] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:41:44.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Wither Skeleton
+[17Apr2025 21:41:44.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 21:41:44.775] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 21:41:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> escucho musica
+[17Apr2025 21:42:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> q es?
