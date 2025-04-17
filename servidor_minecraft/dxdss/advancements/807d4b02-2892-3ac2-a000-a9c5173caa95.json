@@ -371,6 +371,7 @@
       "minecraft:cave_spider": "2025-04-13 17:23:29 +0000",
       "minecraft:piglin": "2025-04-16 18:20:49 +0000",
       "minecraft:enderman": "2025-04-13 16:40:48 +0000",
+      "minecraft:vex": "2025-04-17 06:09:00 +0000",
       "minecraft:zombie": "2025-04-12 18:36:00 +0000",
       "quark:foxhound": "2025-04-14 01:51:20 +0000"
     },
@@ -384,7 +385,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -594,7 +595,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -865,7 +866,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -889,7 +890,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -906,6 +907,7 @@
       "minecraft:mushroom_fields": "2025-04-13 22:06:21 +0000",
       "minecraft:deep_ocean": "2025-04-13 21:48:29 +0000",
       "minecraft:eroded_badlands": "2025-04-13 19:00:34 +0000",
+      "minecraft:frozen_river": "2025-04-17 06:07:49 +0000",
       "minecraft:sunflower_plains": "2025-04-13 01:44:38 +0000",
       "minecraft:birch_forest": "2025-04-12 16:39:24 +0000",
       "minecraft:bamboo_jungle": "2025-04-13 02:13:19 +0000",
@@ -919,6 +921,7 @@
       "minecraft:lukewarm_ocean": "2025-04-13 18:32:43 +0000",
       "minecraft:stony_shore": "2025-04-13 18:32:29 +0000",
       "minecraft:dripstone_caves": "2025-04-12 18:40:53 +0000",
+      "minecraft:snowy_taiga": "2025-04-17 06:07:42 +0000",
       "minecraft:grove": "2025-04-13 22:54:45 +0000",
       "minecraft:swamp": "2025-04-13 22:48:48 +0000",
       "minecraft:jagged_peaks": "2025-04-13 01:22:22 +0000",
@@ -995,7 +998,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -1159,7 +1162,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -1634,7 +1637,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -1766,7 +1769,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -1832,7 +1835,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -2136,6 +2139,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-04-17 06:07:50 +0000"
+    },
+    "done": true
+  },
   "knight_quest:kq_quest_fill_goblet": {
     "criteria": {
       "kq_quest_fill_goblet": "2025-04-17 03:18:59 +0000"
@@ -2258,7 +2267,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -2276,7 +2285,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },
@@ -2288,7 +2297,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:46 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:16 +0000"
     },
     "done": false
   },

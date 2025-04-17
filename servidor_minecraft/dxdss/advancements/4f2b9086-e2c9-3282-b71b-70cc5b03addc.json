@@ -336,6 +336,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-04-17 07:05:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:49:00 +0000"
@@ -451,13 +457,16 @@
       "minecraft:spider": "2025-04-13 04:17:21 +0000",
       "minecraft:creeper": "2025-04-13 04:20:59 +0000",
       "minecraft:slime": "2025-04-13 20:58:28 +0000",
+      "minecraft:evoker": "2025-04-17 06:13:31 +0000",
       "quark:forgotten": "2025-04-13 18:40:28 +0000",
       "minecraft:phantom": "2025-04-16 18:03:28 +0000",
+      "minecraft:zombified_piglin": "2025-04-17 06:50:27 +0000",
       "minecraft:witch": "2025-04-13 20:45:02 +0000",
       "minecraft:wither_skeleton": "2025-04-16 18:03:36 +0000",
       "minecraft:husk": "2025-04-16 18:08:34 +0000",
       "minecraft:enderman": "2025-04-13 03:50:42 +0000",
       "minecraft:silverfish": "2025-04-14 00:56:46 +0000",
+      "minecraft:vex": "2025-04-17 06:09:17 +0000",
       "minecraft:zombie": "2025-04-13 03:24:31 +0000",
       "quark:foxhound": "2025-04-17 03:45:02 +0000",
       "minecraft:drowned": "2025-04-17 01:38:54 +0000"
@@ -466,7 +475,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -614,6 +623,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2025-04-17 06:05:50 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -688,7 +703,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -940,7 +955,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -976,7 +991,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -990,6 +1005,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-17 01:45:33 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-13 03:55:03 +0000",
+      "minecraft:frozen_river": "2025-04-17 06:08:20 +0000",
       "minecraft:sunflower_plains": "2025-04-17 05:01:59 +0000",
       "minecraft:birch_forest": "2025-04-12 21:18:31 +0000",
       "minecraft:badlands": "2025-04-14 00:00:17 +0000",
@@ -1000,12 +1016,14 @@
       "minecraft:stony_shore": "2025-04-13 18:54:04 +0000",
       "minecraft:snowy_plains": "2025-04-17 01:42:38 +0000",
       "minecraft:dripstone_caves": "2025-04-13 04:05:41 +0000",
+      "minecraft:snowy_taiga": "2025-04-17 06:07:56 +0000",
       "minecraft:jagged_peaks": "2025-04-13 19:19:42 +0000",
       "minecraft:forest": "2025-04-13 03:55:13 +0000",
       "minecraft:lush_caves": "2025-04-17 03:20:52 +0000",
       "minecraft:desert": "2025-04-14 00:01:10 +0000",
       "minecraft:ocean": "2025-04-13 19:01:25 +0000",
       "minecraft:jungle": "2025-04-16 17:46:30 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-17 07:00:12 +0000",
       "minecraft:windswept_savanna": "2025-04-17 04:38:01 +0000",
       "minecraft:flower_forest": "2025-04-14 01:32:10 +0000",
       "minecraft:frozen_peaks": "2025-04-13 16:25:38 +0000",
@@ -1068,7 +1086,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -1160,6 +1178,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-17 03:40:37 +0000",
       "minecraft:nether_wastes": "2025-04-17 03:35:52 +0000",
+      "minecraft:soul_sand_valley": "2025-04-17 06:42:45 +0000",
       "minecraft:warped_forest": "2025-04-17 03:35:56 +0000"
     },
     "done": false
@@ -1232,7 +1251,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -1650,9 +1669,15 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-04-17 06:29:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_door_from_mahogany_planks_woodcutting": {
     "criteria": {
@@ -1770,7 +1795,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -1848,7 +1873,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -1879,6 +1904,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-04-13 16:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-17 07:04:13 +0000"
     },
     "done": true
   },
@@ -2135,6 +2166,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-04-17 06:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:53:55 +0000"
@@ -2227,7 +2264,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -2239,7 +2276,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
     "done": false
   },
@@ -2251,10 +2288,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-17 05:59:55 +0000",
-      "log_spam_fixer": "2025-04-17 05:59:47 +0000"
+      "log_spam_fixer": "2025-04-17 07:14:15 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {
