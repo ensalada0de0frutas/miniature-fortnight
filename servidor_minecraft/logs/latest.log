@@ -1202,3 +1202,30 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 20:15:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [17Apr2025 20:15:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
 [17Apr2025 20:15:30.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:16:30.287] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=721, y=-57, z=103}
+[17Apr2025 20:16:47.047] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=734, y=-57, z=82}
+[17Apr2025 20:16:47.350] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=741, y=-57, z=182}
+[17Apr2025 20:16:47.351] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=743, y=-57, z=182}
+[17Apr2025 20:17:47.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 20:17:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 20:17:53.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 20:17:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 20:20:44.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2666.500000, -17.500000, -2291.500000]
+[17Apr2025 20:20:52.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 20:22:14.652] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3113c717
+[17Apr2025 20:22:14.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.235.183.21:34895] logged in with entity id 15668 at (-1704.9426830591724, 76.0, -2234.300000011921)
+[17Apr2025 20:22:14.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[17Apr2025 20:22:16.361] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[17Apr2025 20:22:16.362] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[17Apr2025 20:22:23.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[17Apr2025 20:22:24.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[17Apr2025 20:22:24.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[17Apr2025 20:22:59.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:23:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2533.500000, -28.500000, -2208.500000]
+[17Apr2025 20:23:41.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[17Apr2025 20:24:23.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:25:24.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 20:25:32.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 20:25:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[17Apr2025 20:25:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 20:25:58.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2431.500000, -22.500000, -2090.500000]
