@@ -478,6 +478,7 @@
       "minecraft:wither_skeleton": "2025-04-16 18:03:36 +0000",
       "minecraft:husk": "2025-04-16 18:08:34 +0000",
       "minecraft:cave_spider": "2025-04-17 20:22:55 +0000",
+      "quark:wraith": "2025-04-18 19:06:36 +0000",
       "minecraft:enderman": "2025-04-13 03:50:42 +0000",
       "minecraft:silverfish": "2025-04-14 00:56:46 +0000",
       "minecraft:vex": "2025-04-17 06:09:17 +0000",
@@ -1366,6 +1367,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-17 04:13:36 +0000",
+      "incendium:weeping_valley": "2025-04-18 19:01:16 +0000",
       "incendium:quartz_flats": "2025-04-17 03:56:09 +0000",
       "incendium:inverted_forest": "2025-04-17 03:46:00 +0000",
       "incendium:withered_forest": "2025-04-18 18:57:55 +0000"
