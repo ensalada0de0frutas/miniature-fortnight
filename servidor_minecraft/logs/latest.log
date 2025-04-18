@@ -1220,3 +1220,21 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Apr2025 17:57:02.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Who is Cutting Onions?]
 [18Apr2025 17:57:40.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> busco y te avsio
 [18Apr2025 17:57:43.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> aviso
+[18Apr2025 17:59:34.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Hot Stuff]
+[18Apr2025 18:00:05.137] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shiba['normaolongo'/22496, l='ServerLevel[dxdss]', x=-1262.40, y=142.56, z=-1652.03] died: normaolongo burned to death
+[18Apr2025 18:02:13.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> leo haceme tp a mi casa porfa
+[18Apr2025 18:02:15.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2127.500000, 125.500000, 2779.500000]
+[18Apr2025 18:02:16.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> ando lejos
+[18Apr2025 18:02:43.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> xaero-waypoint:casa:C:-682:74:-283:14:false:0:Internal-overworld-waypoints
+[18Apr2025 18:03:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 18:03:05.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:03:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 18:03:15.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:03:18.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 18:03:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:03:25.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 18:03:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:03:38.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 18:03:57.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:04:00.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[18Apr2025 18:07:13.804] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3176, y=66, z=-3162} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
