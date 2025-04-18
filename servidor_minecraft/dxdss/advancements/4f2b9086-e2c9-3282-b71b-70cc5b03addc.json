@@ -1367,7 +1367,8 @@
     "criteria": {
       "incendium:infernal_dunes": "2025-04-17 04:13:36 +0000",
       "incendium:quartz_flats": "2025-04-17 03:56:09 +0000",
-      "incendium:inverted_forest": "2025-04-17 03:46:00 +0000"
+      "incendium:inverted_forest": "2025-04-17 03:46:00 +0000",
+      "incendium:withered_forest": "2025-04-18 18:57:55 +0000"
     },
     "done": false
   },
@@ -2218,6 +2219,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-04-18 18:57:55 +0000"
     },
     "done": true
   },
