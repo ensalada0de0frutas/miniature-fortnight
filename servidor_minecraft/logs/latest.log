@@ -1409,3 +1409,84 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Apr2025 19:20:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was skewered by a falling stalactite whilst fighting Aptrgangr
 [18Apr2025 19:20:45.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [18Apr2025 19:21:13.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 19:21:34.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[18Apr2025 19:22:01.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[18Apr2025 19:22:15.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[18Apr2025 19:22:28.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[18Apr2025 19:22:36.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -1.8100042860314716,19.662015018500426,0.7933481143281824
+[18Apr2025 19:22:53.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 19:24:02.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 19:24:04.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 19:24:20.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[18Apr2025 19:24:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -4156.500000, 44.500000, -550.500000]
+[18Apr2025 19:24:47.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> leo
+[18Apr2025 19:24:52.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> nos dejaste aca
+[18Apr2025 19:24:55.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> jeje
+[18Apr2025 19:24:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> vuewlvan solos
+[18Apr2025 19:25:03.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> hacenos tp puto
+[18Apr2025 19:25:09.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no toy ya
+[18Apr2025 19:25:12.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> me voy a mi boss
+[18Apr2025 19:25:30.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> hdp
+[18Apr2025 19:27:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -4401.500000, 37.500000, -834.500000]
+[18Apr2025 19:27:55.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 0.8184778421818919,3.366505368597643,-10.450278274836364
+[18Apr2025 19:28:28.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 6.556742049759578,-2.906930543431514,-9.471155866588106
+[18Apr2025 19:28:43.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4379, y=26, z=-840} BlockPos{x=-4385, y=29, z=-835}
+[18Apr2025 19:29:17.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[18Apr2025 19:29:39.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[18Apr2025 19:29:57.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 19:29:59.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 19:30:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> leo haceme tp a vos
+[18Apr2025 19:30:37.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> para
+[18Apr2025 19:30:42.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> mostrate
+[18Apr2025 19:30:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[18Apr2025 19:30:52.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[18Apr2025 19:30:52.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 0.3296609249800895,1.9694160092995077,-10.110805198444723
+[18Apr2025 19:30:54.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/114189, l='ServerLevel[dxdss]', x=-4443.52, y=52.00, z=-1182.49] died: Piglin Civilian suffocated in a wall
+[18Apr2025 19:32:04.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Flancito0_]
+[18Apr2025 19:32:25.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 6.659983076436674,1.2395763283783339,-19.971285515701766
+[18Apr2025 19:32:29.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18Apr2025 19:32:46.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[18Apr2025 19:33:10.935] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['THT-world_gen'/120957, l='ServerLevel[dxdss]', x=-1647.50, y=79.50, z=1200.50]
+[18Apr2025 19:33:10.935] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['THT-world_gen'/120958, l='ServerLevel[dxdss]', x=-1647.50, y=80.50, z=1152.50]
+[18Apr2025 19:33:10.979] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['THT-world_gen'/120966, l='ServerLevel[dxdss]', x=-1647.50, y=79.50, z=1184.50]
+[18Apr2025 19:33:10.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['THT-world_gen'/120967, l='ServerLevel[dxdss]', x=-1647.50, y=80.50, z=1168.50]
+[18Apr2025 19:33:39.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18Apr2025 19:33:57.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2797ms or 55 ticks behind
+[18Apr2025 19:34:32.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Apr2025 19:36:33.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -4904.500000, 23.500000, -1447.500000]
+[18Apr2025 19:37:27.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4919, y=13, z=-1430} BlockPos{x=-4918, y=13, z=-1430}
+[18Apr2025 19:38:05.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4915, y=14, z=-1423} BlockPos{x=-4918, y=17, z=-1425}
+[18Apr2025 19:38:05.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4915, y=14, z=-1423} BlockPos{x=-4918, y=17, z=-1425}
+[18Apr2025 19:38:44.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[18Apr2025 19:38:44.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[18Apr2025 19:38:44.971] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[18Apr2025 19:38:52.915] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3aa11c14
+[18Apr2025 19:38:52.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:57641] logged in with entity id 142334 at (-1274.8169591549258, 142.0, -1647.4927911024015)
+[18Apr2025 19:38:52.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[18Apr2025 19:38:53.669] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[18Apr2025 19:38:53.670] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[18Apr2025 19:38:56.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[18Apr2025 19:38:57.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[18Apr2025 19:38:57.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[18Apr2025 19:39:44.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr2025 19:39:44.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr2025 19:39:44.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[18Apr2025 19:39:44.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[18Apr2025 19:39:44.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Server closed
+[18Apr2025 19:39:44.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[18Apr2025 19:39:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr2025 19:39:46.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:overworld
+[18Apr2025 19:39:54.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/twilightforest:twilight_forest
+[18Apr2025 19:39:54.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_end
+[18Apr2025 19:39:54.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/aether:the_aether
+[18Apr2025 19:39:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_nether
+[18Apr2025 19:40:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/tht:dimension
+[18Apr2025 19:40:03.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dxdss): All chunks are saved
+[18Apr2025 19:40:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Apr2025 19:40:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr2025 19:40:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[18Apr2025 19:40:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr2025 19:40:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[18Apr2025 19:40:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Apr2025 19:40:05.661] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Apr2025 19:40:05.662] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
