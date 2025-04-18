@@ -1238,3 +1238,18 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Apr2025 18:03:57.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [18Apr2025 18:04:00.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
 [18Apr2025 18:07:13.804] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3176, y=66, z=-3162} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[18Apr2025 18:09:27.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> afk, voy a comer
+[18Apr2025 18:13:07.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 18:13:09.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:14:13.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[18Apr2025 18:15:00.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 18:15:01.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[18Apr2025 18:17:09.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/42415, l='ServerLevel[dxdss]', x=-588.50, y=33.00, z=370.82] died: Pipeline Sentry suffocated in a wall
+[18Apr2025 18:17:11.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/42447, l='ServerLevel[dxdss]', x=-584.49, y=31.00, z=408.67] died: Pipeline Sentry suffocated in a wall
+[18Apr2025 18:17:25.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/42649, l='ServerLevel[dxdss]', x=-614.70, y=96.20, z=427.54] died: Desert Blaze was slain by Uzumaki0502
+[18Apr2025 18:18:08.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:18:21.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/43740, l='ServerLevel[dxdss]', x=-604.99, y=95.00, z=417.02] died: Desert Blaze was slain by Uzumaki0502
+[18Apr2025 18:18:23.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/44357, l='ServerLevel[dxdss]', x=-605.05, y=95.08, z=414.67] died: Desert Blaze was slain by Uzumaki0502
+[18Apr2025 18:18:28.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/43742, l='ServerLevel[dxdss]', x=-609.65, y=95.00, z=416.58] died: Desert Blaze was slain by Uzumaki0502
+[18Apr2025 18:18:31.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/44355, l='ServerLevel[dxdss]', x=-611.93, y=95.64, z=416.14] died: Desert Blaze was slain by Uzumaki0502
+[18Apr2025 18:18:43.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/44356, l='ServerLevel[dxdss]', x=-606.53, y=95.00, z=419.01] died: Desert Blaze was slain by Uzumaki0502
