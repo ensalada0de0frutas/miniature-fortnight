@@ -1365,3 +1365,47 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Apr2025 19:08:22.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was burnt to a crisp whilst fighting Netherite Monstrosity
 [18Apr2025 19:08:32.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Flancito0_ using    [martillo rompe culos]
 [18Apr2025 19:09:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Uzumaki0502]
+[18Apr2025 19:11:26.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Uzumaki0502]
+[18Apr2025 19:12:34.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -270.500000, 77.500000, -275.500000]
+[18Apr2025 19:12:36.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[18Apr2025 19:14:10.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[18Apr2025 19:14:29.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2114.500000, 76.500000, 3176.500000]
+[18Apr2025 19:14:31.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[18Apr2025 19:14:43.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2379.500000, 88.500000, 3004.500000]
+[18Apr2025 19:14:44.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[18Apr2025 19:15:35.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Maledictus
+[18Apr2025 19:15:52.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder withered away whilst fighting Uzumaki0502
+[18Apr2025 19:15:54.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was cursed by Maledictus
+[18Apr2025 19:15:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was cursed by Maledictus
+[18Apr2025 19:15:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was cursed by Maledictus
+[18Apr2025 19:15:56.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Maledictus
+[18Apr2025 19:15:57.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Maledictus
+[18Apr2025 19:16:01.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Maledictus
+[18Apr2025 19:16:17.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Maledictus
+[18Apr2025 19:16:19.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was cursed by Maledictus
+[18Apr2025 19:16:25.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was cursed by Maledictus
+[18Apr2025 19:16:44.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was cursed by Maledictus
+[18Apr2025 19:16:44.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was cursed by Maledictus
+[18Apr2025 19:16:44.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was cursed by Maledictus
+[18Apr2025 19:16:48.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Maledictus
+[18Apr2025 19:16:50.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Maledictus
+[18Apr2025 19:16:55.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Maledictus
+[18Apr2025 19:17:07.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was cursed by Maledictus 's Magic
+[18Apr2025 19:17:08.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was cursed by Maledictus 's Magic
+[18Apr2025 19:17:10.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was cursed by Maledictus 's Arrow
+[18Apr2025 19:17:27.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was cursed by Maledictus
+[18Apr2025 19:17:29.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was cursed by Maledictus
+[18Apr2025 19:17:32.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was cursed by Maledictus
+[18Apr2025 19:17:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was cursed by Maledictus
+[18Apr2025 19:17:38.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was cursed by Maledictus 's Arrow
+[18Apr2025 19:17:53.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Maledictus
+[18Apr2025 19:17:53.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 19:17:55.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Crusade Against Curse]
+[18Apr2025 19:17:57.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 19:17:59.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[18Apr2025 19:18:39.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 19:18:52.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 19:18:53.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[18Apr2025 19:20:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was skewered by a falling stalactite whilst fighting Aptrgangr
+[18Apr2025 19:20:45.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 19:21:13.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]

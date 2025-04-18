@@ -847,6 +847,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-04-18 19:17:55 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"

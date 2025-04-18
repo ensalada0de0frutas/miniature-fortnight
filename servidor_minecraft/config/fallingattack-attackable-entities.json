@@ -1,4 +1,5 @@
 {
     "minecraft:witch": true,
-    "minecraft:player": false
+    "minecraft:player": false,
+    "cataclysm:maledictus": true
 }
