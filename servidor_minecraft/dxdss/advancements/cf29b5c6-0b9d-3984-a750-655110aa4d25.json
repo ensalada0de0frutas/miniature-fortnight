@@ -158,6 +158,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-04-18 16:57:41 +0000",
       "incendium:infernal_dunes": "2025-04-17 04:01:27 +0000",
       "incendium:weeping_valley": "2025-04-17 18:29:07 +0000",
       "incendium:quartz_flats": "2025-04-17 06:36:10 +0000",
@@ -396,6 +397,18 @@
   "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-04-18 17:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-18 16:59:24 +0000"
     },
     "done": true
   },
@@ -937,6 +950,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-14 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-04-18 16:57:41 +0000"
     },
     "done": true
   },

@@ -1161,3 +1161,155 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Apr2025 16:57:41.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [The Dust Settles]
 [18Apr2025 16:57:55.699] [Worker-Main-1/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [18Apr2025 16:57:57.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -0.9603445366624612,-9.378930949693647,-4.3374987282822985
+[18Apr2025 16:58:28.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[18Apr2025 16:59:24.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Subspace Bubble]
+[18Apr2025 16:59:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[18Apr2025 17:00:10.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 1850.500000, 107.500000, -9286.500000]
+[18Apr2025 17:00:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 17:01:15.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -2.408346224504612,-9.378930949693668,3.7915479970118895
+[18Apr2025 17:01:15.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 5.746762042111868,0.0,8.526138036106204
+[18Apr2025 17:01:26.672] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1515, y=83, z=315} but found not block entity block Block{minecraft:air} at location
+[18Apr2025 17:01:26.672] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1515, y=83, z=315}
+[18Apr2025 17:01:27.379] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[18Apr2025 17:01:30.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -3.270251897459275,-0.10233304677814203,11.941428690139247
+[18Apr2025 17:01:32.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 17:01:33.016] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1771, y=76, z=348} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[18Apr2025 17:01:33.017] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=-1771, y=76, z=348}
+[18Apr2025 17:01:33.017] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1770, y=76, z=348} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 17:01:33.017] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1770, y=76, z=348}
+[18Apr2025 17:01:33.017] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1770, y=77, z=348} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[18Apr2025 17:01:33.017] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=-1770, y=77, z=348}
+[18Apr2025 17:01:33.018] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1771, y=79, z=347} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[18Apr2025 17:01:33.018] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1771, y=79, z=347}
+[18Apr2025 17:01:38.584] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:01:38.585] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:01:38.585] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:01:38.585] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:01:46.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -1.0104075341794214,1.4754324503451812,10.11996538806747
+[18Apr2025 17:01:48.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 2.0631371643810326,-0.829303891248685,-9.821305526406832
+[18Apr2025 17:01:48.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3102ms or 62 ticks behind
+[18Apr2025 17:01:55.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -3.258342328433855,-1.1139835488215368,9.595739075734002
+[18Apr2025 17:01:57.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -2.295606774156795,0.0,9.808276508573499
+[18Apr2025 17:02:12.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8951ms or 179 ticks behind
+[18Apr2025 17:02:22.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -5.128907294493956,2.209979161705448,13.291752427767904
+[18Apr2025 17:02:24.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -0.3338180315097361,9.749638910434697,2.6068300840134384
+[18Apr2025 17:02:32.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 0.7259719777482587,9.62458927007178,5.215112937156732
+[18Apr2025 17:02:34.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -0.5413754049536692,-11.06576491203981,1.5220168313849172
+[18Apr2025 17:02:34.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[18Apr2025 17:02:36.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -5.886681668278015,0.0,8.35116262975032
+[18Apr2025 17:02:38.998] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[18Apr2025 17:03:01.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1749, y=75, z=710} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[18Apr2025 17:03:01.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1749, y=75, z=710}
+[18Apr2025 17:03:01.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1749, y=75, z=709} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[18Apr2025 17:03:01.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-1749, y=75, z=709}
+[18Apr2025 17:03:01.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1749, y=74, z=710} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[18Apr2025 17:03:01.521] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-1749, y=74, z=710}
+[18Apr2025 17:03:08.516] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[18Apr2025 17:03:09.567] [Worker-Main-2/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 17:03:26.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[18Apr2025 17:03:28.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -1.9513524907833926,1.118896776497536,10.200502039684352
+[18Apr2025 17:03:31.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -3.187595855548807,1.0,9.539407071909068
+[18Apr2025 17:03:35.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -0.7640307312378809,-10.177703482736447,-0.41362284959700446
+[18Apr2025 17:03:37.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! 0.0,-10.679875826113289,0.0
+[18Apr2025 17:03:49.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7726ms or 154 ticks behind
+[18Apr2025 17:03:58.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -6.571012938615013,-0.09201964102446425,7.615541195817627
+[18Apr2025 17:04:15.058] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:04:24.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -1.4905046466851672,-1.4754754044031841,-9.788640606215267
+[18Apr2025 17:04:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was exterminated by The Leviathan 's laser
+[18Apr2025 17:04:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was exterminated by The Leviathan 's laser
+[18Apr2025 17:04:58.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was exterminated by The Leviathan 's laser
+[18Apr2025 17:05:01.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder has left this dimension
+[18Apr2025 17:05:04.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder has left this dimension
+[18Apr2025 17:05:08.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 17:05:14.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 17:05:17.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> te dije que era dificil hacer ese boss solo tnt
+[18Apr2025 17:05:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ay
+[18Apr2025 17:05:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tonto
+[18Apr2025 17:05:28.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -1.7246565622790513,0.5040625432530135,18.866443831479046
+[18Apr2025 17:05:38.620] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:05:38.621] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:05:38.621] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:05:38.621] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:05:41.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> es facil
+[18Apr2025 17:05:47.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> solo q me buge en un blouqe
+[18Apr2025 17:06:16.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [A Multidimensional Predator]
+[18Apr2025 17:06:18.678] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:06:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> crjo
+[18Apr2025 17:06:29.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> easy
+[18Apr2025 17:06:31.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ahora tengo k buscar otro
+[18Apr2025 17:06:40.024] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:06:40.024] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:06:40.025] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:06:40.025] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 17:06:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> queria el gancho dx
+[18Apr2025 17:06:57.425] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[18Apr2025 17:06:58.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -0.9094310050331842,2.8822179162631585,10.616187197404543
+[18Apr2025 17:07:06.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> se puede volver a invocar creo
+[18Apr2025 17:07:07.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[18Apr2025 17:07:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> el altar sigue aca
+[18Apr2025 17:07:21.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ah entonces puedo intentarlo
+[18Apr2025 17:07:30.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> easy peace
+[18Apr2025 17:07:37.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> pero tengo k farmear td para invocarlo
+[18Apr2025 17:07:40.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> tu bossito me la pelo
+[18Apr2025 17:07:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> y tmb necesito algo pa respirar bajo el agua
+[18Apr2025 17:07:58.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[18Apr2025 17:08:11.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> te presto las weas mias
+[18Apr2025 17:08:16.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> hacete el sacrificio ese
+[18Apr2025 17:08:17.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -2.9957916050368567,-2.0855411592191047,11.74810809775181
+[18Apr2025 17:08:19.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[18Apr2025 17:08:21.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> bue
+[18Apr2025 17:08:29.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> q
+[18Apr2025 17:08:29.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> haceme tp tonces
+[18Apr2025 17:08:39.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> encima q te presto las cosas para el agua
+[18Apr2025 17:08:41.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> puto
+[18Apr2025 17:08:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> osea
+[18Apr2025 17:08:46.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> pa ir
+[18Apr2025 17:08:51.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ya lo tenes?
+[18Apr2025 17:09:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> no tengo las gafas pa respirar bajop el agua
+[18Apr2025 17:09:11.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tengo k farmear
+[18Apr2025 17:09:12.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no pancho
+[18Apr2025 17:09:15.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> el coraazon
+[18Apr2025 17:09:19.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> aaah
+[18Apr2025 17:09:21.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> eso
+[18Apr2025 17:09:21.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> yo te presto las fagas y collar
+[18Apr2025 17:09:38.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> no lo tengo, tengo k farmear para hacerlo
+[18Apr2025 17:09:46.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> bno, cuando estes me dices
+[18Apr2025 17:09:53.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 0.4495431385703341,10.167573760545693,0.9775429847750274
+[18Apr2025 17:10:16.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ok, deja consigo algo pa respirar bajo el agua y voy
+[18Apr2025 17:10:27.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -0.6704721142755261,11.252213555969519,0.990919009499521
+[18Apr2025 17:10:28.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> q te presto las gafas pancho
+[18Apr2025 17:10:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> 30 verces te dije
+[18Apr2025 17:10:33.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ah cierto
+[18Apr2025 17:10:37.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tonces estoy
+[18Apr2025 17:10:40.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> hace el corazon
+[18Apr2025 17:10:44.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> que retrasado
+[18Apr2025 17:10:53.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> no tengo los objetos
+[18Apr2025 17:11:00.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tengo k farmearlos
+[18Apr2025 17:11:00.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> buscalos
+[18Apr2025 17:11:47.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [This Must be a Sign!]
+[18Apr2025 17:12:15.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -7.68870398083709,4.259686349324426,-5.6558984886228245
+[18Apr2025 17:12:17.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[18Apr2025 17:12:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> quien fue el boludo q intento dormir
+[18Apr2025 17:12:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> JDHFJFSD
+[18Apr2025 17:12:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> JKASDJJA
+[18Apr2025 17:12:48.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> yo se pendejo
+[18Apr2025 17:12:53.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> si aja
+[18Apr2025 17:13:14.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3176, y=66, z=-3162} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[18Apr2025 17:13:42.198] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[18Apr2025 17:13:42.219] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[18Apr2025 17:13:42.219] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[18Apr2025 17:15:39.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
+[18Apr2025 17:16:13.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[18Apr2025 17:17:24.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[18Apr2025 17:17:53.555] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[18Apr2025 17:17:57.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 17:18:38.390] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Apr2025 17:18:38.391] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[18Apr2025 17:18:38.391] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[18Apr2025 17:18:38.391] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 32 torch
+[18Apr2025 17:18:38.392] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 0
+[18Apr2025 17:18:38.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -4.340511325797252,1.6556444892650148,9.15350584647922
+[18Apr2025 17:18:40.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 10.1321046893936,0.2104894408491873,-1.1270816519786422
+[18Apr2025 17:18:40.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[18Apr2025 17:18:51.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 17:18:52.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
