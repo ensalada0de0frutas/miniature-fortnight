@@ -1253,3 +1253,14 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Apr2025 18:18:28.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/43742, l='ServerLevel[dxdss]', x=-609.65, y=95.00, z=416.58] died: Desert Blaze was slain by Uzumaki0502
 [18Apr2025 18:18:31.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/44355, l='ServerLevel[dxdss]', x=-611.93, y=95.64, z=416.14] died: Desert Blaze was slain by Uzumaki0502
 [18Apr2025 18:18:43.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/44356, l='ServerLevel[dxdss]', x=-606.53, y=95.00, z=419.01] died: Desert Blaze was slain by Uzumaki0502
+[18Apr2025 18:20:16.517] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[18Apr2025 18:20:26.443] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[18Apr2025 18:20:35.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[18Apr2025 18:20:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[18Apr2025 18:20:49.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[18Apr2025 18:21:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:23:04.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[18Apr2025 18:23:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[18Apr2025 18:25:00.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Glorious Eminence]
+[18Apr2025 18:25:23.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[18Apr2025 18:25:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> pera

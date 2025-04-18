@@ -16,5 +16,6 @@
     "minecraft:golden_helmet": false,
     "minecraft:golden_chestplate": false,
     "minecraft:leather_boots": false,
-    "minecraft:fishing_rod": false
+    "minecraft:fishing_rod": false,
+    "spartanweaponry:diamond_scythe": true
 }
