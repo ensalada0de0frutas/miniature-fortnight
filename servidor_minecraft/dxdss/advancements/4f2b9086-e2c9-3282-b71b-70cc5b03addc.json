@@ -679,6 +679,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-18 18:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 21:27:05 +0000"
@@ -1099,6 +1105,12 @@
   "minecraft:recipes/woodcutting/mahogany/crafting_table_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-18 18:41:27 +0000"
     },
     "done": true
   },
@@ -2230,6 +2242,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-18 18:41:40 +0000"
     },
     "done": true
   },
