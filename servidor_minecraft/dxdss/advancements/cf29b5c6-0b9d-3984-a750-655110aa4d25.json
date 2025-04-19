@@ -188,6 +188,12 @@
     },
     "done": true
   },
+  "quark:throw_parrot_egg": {
+    "criteria": {
+      "throw_parrot_egg": "2025-04-19 17:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:53:38 +0000"
