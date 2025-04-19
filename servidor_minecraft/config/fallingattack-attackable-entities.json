@@ -1,5 +1,7 @@
 {
     "minecraft:witch": true,
     "minecraft:player": false,
-    "cataclysm:maledictus": true
+    "cataclysm:maledictus": true,
+    "naturalist:bluejay": false,
+    "quark:shiba": false
 }

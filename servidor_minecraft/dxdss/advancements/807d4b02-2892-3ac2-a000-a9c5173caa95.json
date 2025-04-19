@@ -138,6 +138,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/rescue_mission": {
+    "criteria": {
+      "requirement": "2025-04-18 20:30:56 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
@@ -391,6 +397,7 @@
       "minecraft:skeleton": "2025-04-12 19:17:29 +0000",
       "minecraft:ravager": "2025-04-17 17:47:15 +0000",
       "minecraft:ghast": "2025-04-15 01:36:24 +0000",
+      "minecraft:hoglin": "2025-04-18 20:02:27 +0000",
       "minecraft:vindicator": "2025-04-12 20:37:27 +0000",
       "minecraft:magma_cube": "2025-04-15 01:41:25 +0000",
       "minecraft:spider": "2025-04-12 18:36:13 +0000",
@@ -423,7 +430,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -645,7 +652,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -658,6 +665,12 @@
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-04-13 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-04-18 20:12:54 +0000"
     },
     "done": true
   },
@@ -847,6 +860,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-04-18 20:26:12 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-04-13 16:50:05 +0000"
@@ -940,7 +959,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -970,7 +989,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -1080,7 +1099,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -1275,7 +1294,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -1450,6 +1469,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-04-18 20:14:18 +0000"
     },
     "done": true
   },
@@ -1791,7 +1816,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -1929,7 +1954,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -1995,7 +2020,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -2164,6 +2189,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-18 20:39:04 +0000"
     },
     "done": true
   },
@@ -2469,7 +2500,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -2493,7 +2524,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
@@ -2505,7 +2536,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 19:37:46 +0000"
+      "log_spam_fixer": "2025-04-19 00:53:33 +0000"
     },
     "done": false
   },
