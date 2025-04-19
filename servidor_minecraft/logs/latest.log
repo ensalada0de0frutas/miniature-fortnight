@@ -1345,3 +1345,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 	at java.lang.Thread.run(Thread.java:840) [?:?]
 [19Apr2025 18:47:10.146] [Server thread/WARN] [Canary Class Analysis/]: Canary Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.item.custom.ChargedEnderPearlEntity cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(value=Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Canary handles this error by assuming the class cannot be included in some optimizations.
 [19Apr2025 18:48:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[19Apr2025 18:56:03.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[19Apr2025 18:59:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Sofx0Loder
+[19Apr2025 18:59:16.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> leo siendo leo
+[19Apr2025 18:59:23.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> lo mate a puños HJDGFJD
+[19Apr2025 18:59:35.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> pedilo JAJAJA
+[19Apr2025 19:01:36.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was killed by Sofx0Loder using magic
