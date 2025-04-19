@@ -1254,3 +1254,94 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Apr2025 18:18:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2123.500000, 7.500000, -2251.500000]
 [19Apr2025 18:18:19.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
 [19Apr2025 18:18:22.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[19Apr2025 18:24:50.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchurritoo has made the advancement [The More You Know!]
+[19Apr2025 18:26:13.854] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 14 on channel sophisticatedcore:channel
+[19Apr2025 18:26:28.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[19Apr2025 18:27:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[19Apr2025 18:27:40.229] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 14 on channel sophisticatedcore:channel
+[19Apr2025 18:27:57.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> todo bien santi? necetias ayuda con algo?
+[19Apr2025 18:28:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> pregunta cualquier cosa de los mods o algo
+[19Apr2025 18:28:06.309] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 14 on channel sophisticatedcore:channel
+[19Apr2025 18:28:22.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> toy bien por ahora
+[19Apr2025 18:28:36.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> estoy por buscar comida y explorar
+[19Apr2025 18:28:54.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> y como los vinculo leo?
+[19Apr2025 18:29:01.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> vincular q
+[19Apr2025 18:29:13.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> el enchanted block von las mesas
+[19Apr2025 18:29:21.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> solo ponlas pegadas a las 3
+[19Apr2025 18:29:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> por k sale igual
+[19Apr2025 18:31:16.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2147.500000, 19.500000, -2276.500000]
+[19Apr2025 18:31:29.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[19Apr2025 18:32:00.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2222.500000, 268.500000, -794.500000]
+[19Apr2025 18:32:11.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[19Apr2025 18:32:19.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elchurritoo) moved too quickly! -1.1965418646332182,0.0,9.954329600556775
+[19Apr2025 18:32:19.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elchurritoo) moved too quickly! -1.3247378934579501,0.0,10.327123713475885
+[19Apr2025 18:32:19.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elchurritoo) moved too quickly! -1.457507169618566,0.0,10.698659076300828
+[19Apr2025 18:32:19.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elchurritoo) moved too quickly! -1.5945717298245654,0.0,11.068974403454376
+[19Apr2025 18:32:19.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elchurritoo) moved too quickly! -1.7356603480552621,0.0,11.43811385486606
+[19Apr2025 18:32:19.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elchurritoo) moved too quickly! -1.879884307840257,0.0,11.806431417610838
+[19Apr2025 18:32:19.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elchurritoo) moved too quickly! -2.025856947337161,0.0,12.174502680372825
+[19Apr2025 18:32:41.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -1.4290387215789906,1.7860244296691405,-9.765451675247277
+[19Apr2025 18:34:08.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchurritoo has made the advancement [Fishy Business]
+[19Apr2025 18:38:05.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[19Apr2025 18:41:38.099] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 18:43:48.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[19Apr2025 18:43:52.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[19Apr2025 18:43:58.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> veni zorra
+[19Apr2025 18:44:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[19Apr2025 18:45:29.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchurritoo has made the advancement [Voluntary Exile]
+[19Apr2025 18:46:04.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to elchurritoo]
+[19Apr2025 18:47:10.143] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/bosses_of_mass_destruction/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@166b11e on thread Thread[Server thread,5,SERVER]
+[19Apr2025 18:47:10.143] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:92) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.3.jar%2351!/:6.0.3+6.0.3+master.039e4ea9]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:3402) ~[?:?]
+	at java.lang.Class.getDeclaredMethod(Class.java:2673) ~[?:?]
+	at com.abdelaziz.canary.common.reflection.ReflectionUtil.hasMethodOverride(ReflectionUtil.java:23) ~[canary-mc1.19.2-0.3.3.jar%23243!/:0.3.3]
+	at com.abdelaziz.canary.common.entity.EntityClassGroup$NoDragonClassGroup.lambda$static$0(EntityClassGroup.java:93) ~[canary-mc1.19.2-0.3.3.jar%23243!/:0.3.3]
+	at com.abdelaziz.canary.common.entity.EntityClassGroup.testAndAddClass(EntityClassGroup.java:78) ~[canary-mc1.19.2-0.3.3.jar%23243!/:0.3.3]
+	at com.abdelaziz.canary.common.entity.EntityClassGroup.contains(EntityClassGroup.java:61) ~[canary-mc1.19.2-0.3.3.jar%23243!/:0.3.3]
+	at net.minecraft.util.ClassInstanceMultiMap.localvar$cap000$add(ClassInstanceMultiMap.java:539) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.util.ClassInstanceMultiMap.add(ClassInstanceMultiMap.java) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.world.level.entity.EntitySection.m_188346_(EntitySection.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.addEntityWithoutEvent(PersistentEntitySectionManager.java:89) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157538_(PersistentEntitySectionManager.java:80) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157533_(PersistentEntitySectionManager.java:71) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java:805) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:760) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at com.cerbon.bosses_of_mass_destruction.item.custom.ChargedEnderPearlItem.m_7203_(ChargedEnderPearlItem.java:48) ~[BOMD-Forge-1.19.2-1.0.6.jar%23240!/:1.0.6]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:266) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1089) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23355!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Apr2025 18:47:10.146] [Server thread/WARN] [Canary Class Analysis/]: Canary Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.item.custom.ChargedEnderPearlEntity cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(value=Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Canary handles this error by assuming the class cannot be included in some optimizations.
+[19Apr2025 18:48:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]

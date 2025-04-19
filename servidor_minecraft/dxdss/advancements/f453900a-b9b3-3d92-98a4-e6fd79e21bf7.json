@@ -5,11 +5,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
+  "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
+      "has_the_slanted_recipe": "2025-04-19 00:49:33 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
@@ -35,516 +41,13 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_lime_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/needle_and_thread": {
-    "criteria": {
-      "has_item": "2025-04-19 02:19:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:46:47 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:46:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-04-19 01:47:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:51:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_red_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_yellow": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:45:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:51:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_pink_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:46:47 +0000"
-    },
-    "done": true
-  },
-  "beautify:frames": {
-    "criteria": {
-      "requirement": "2025-04-19 02:42:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:46:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_purple": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "chicken": "2025-04-19 03:17:01 +0000",
-      "cooked_mutton": "2025-04-19 04:05:26 +0000",
-      "cooked_beef": "2025-04-19 04:22:53 +0000",
-      "beef": "2025-04-19 04:16:24 +0000",
-      "porkchop": "2025-04-19 03:12:58 +0000",
-      "apple": "2025-04-19 02:17:13 +0000",
-      "mutton": "2025-04-19 03:18:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:48:19 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_lime": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_pink": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:arborist": {
-    "criteria": {
-      "twilight_oak_wood": "2025-04-19 04:20:49 +0000"
-    },
-    "done": false
-  },
-  "comforts:sleeping_bag_light_blue_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "beautify:trellis": {
-    "criteria": {
-      "requirement": "2025-04-19 01:55:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:45:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:46:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 00:49:35 +0000"
-    },
-    "done": false
-  },
-  "comforts:hammock_magenta": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 00:49:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "skeleton_skull": "2025-04-19 03:20:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 00:49:35 +0000"
-    },
-    "done": false
-  },
-  "comforts:sleeping_bag_blue": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-04-19 01:48:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-19 04:20:13 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_orange": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-19 02:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:45:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:46:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
-    },
-    "done": false
-  },
-  "knight_quest:kq_quest_source": {
-    "criteria": {
-      "kq_quest_source": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_keep_kayra": {
-    "criteria": {
-      "location0": "2025-04-19 01:32:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:45:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-04-19 01:31:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:51:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:51:08 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_red": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_black_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:51:08 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-04-19 02:56:14 +0000",
-      "minecraft:skeleton": "2025-04-19 02:40:49 +0000",
-      "minecraft:vindicator": "2025-04-19 02:56:04 +0000",
-      "minecraft:spider": "2025-04-19 04:19:31 +0000",
-      "minecraft:creeper": "2025-04-19 18:17:20 +0000",
-      "minecraft:zombie": "2025-04-19 01:31:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:46:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:51:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_lime_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2025-04-19 02:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 01:45:24 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-04-19 00:49:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-19 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-04-19 01:48:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-04-19 01:55:08 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_blue": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
-    },
-    "done": false
-  },
-  "beautify:progression/root": {
-    "criteria": {
-      "Install": "2025-04-19 00:49:34 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/building_blocks/headstones": {
-    "criteria": {
-      "has_the_slanted_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 00:49:33 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
@@ -556,15 +59,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:49:53 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-04-19 02:19:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 02:59:06 +0000"
     },
     "done": true
   },
@@ -598,6 +119,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:45:24 +0000"
@@ -610,9 +143,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:46:47 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-19 01:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 03:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 02:59:06 +0000"
     },
     "done": true
   },
@@ -628,15 +197,21 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
-    },
-    "done": false
-  },
   "beautify:botanist_workbench": {
     "criteria": {
       "requirement": "2025-04-19 03:30:39 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
     "done": true
   },
@@ -652,15 +227,51 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:45:24 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 02:59:06 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:46:47 +0000"
     },
     "done": true
   },
@@ -688,9 +299,21 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-19 02:42:15 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 02:59:06 +0000"
     },
     "done": true
   },
@@ -703,6 +326,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-19 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:46:47 +0000"
     },
     "done": true
   },
@@ -724,11 +353,38 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 03:46:47 +0000"
     },
     "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chicken": "2025-04-19 03:17:01 +0000",
+      "cooked_mutton": "2025-04-19 04:05:26 +0000",
+      "cooked_beef": "2025-04-19 04:22:53 +0000",
+      "beef": "2025-04-19 04:16:24 +0000",
+      "baked_potato": "2025-04-19 18:31:11 +0000",
+      "porkchop": "2025-04-19 03:12:58 +0000",
+      "apple": "2025-04-19 02:17:13 +0000",
+      "mutton": "2025-04-19 03:18:12 +0000",
+      "salmon": "2025-04-19 18:43:37 +0000",
+      "cod": "2025-04-19 18:39:24 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
@@ -784,6 +440,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:48:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
@@ -797,6 +465,12 @@
     "done": true
   },
   "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
@@ -820,9 +494,33 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_wood": "2025-04-19 04:20:49 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-19 01:54:46 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-04-19 01:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:45:24 +0000"
     },
     "done": true
   },
@@ -844,13 +542,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:46:47 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
     "done": true
   },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 00:49:35 +0000"
+    },
+    "done": false
+  },
   "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
@@ -880,6 +596,18 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 00:49:35 +0000"
+    },
+    "done": false
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-19 00:49:33 +0000"
@@ -889,6 +617,12 @@
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:49:53 +0000"
     },
     "done": true
   },
@@ -904,9 +638,15 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "spartanweaponry:collect_heads": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
+      "skeleton_skull": "2025-04-19 03:20:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 00:49:35 +0000"
     },
     "done": false
   },
@@ -916,9 +656,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-04-19 18:24:50 +0000"
     },
     "done": true
   },
@@ -940,11 +692,11 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
+      "get_stone": "2025-04-19 01:48:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -973,6 +725,12 @@
   "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-19 04:20:13 +0000"
     },
     "done": true
   },
@@ -1006,6 +764,24 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-19 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:45:24 +0000"
@@ -1015,6 +791,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:46:47 +0000"
     },
     "done": true
   },
@@ -1036,15 +818,51 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
+      "give_recipe": "2025-04-19 02:59:06 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-04-19 01:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-19 01:31:53 +0000"
+    },
+    "done": true
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:51:08 +0000"
     },
     "done": true
   },
@@ -1060,17 +878,23 @@
     },
     "done": true
   },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 03:46:47 +0000"
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "comforts:hammock_black_from_white": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
     "criteria": {
@@ -1084,11 +908,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
+      "give_recipe": "2025-04-19 01:51:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
@@ -1096,15 +920,44 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "comforts:hammock_gray_from_white": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 18:21:35 +0000"
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-04-19 02:56:14 +0000",
+      "minecraft:skeleton": "2025-04-19 02:40:49 +0000",
+      "minecraft:vindicator": "2025-04-19 02:56:04 +0000",
+      "minecraft:spider": "2025-04-19 04:19:31 +0000",
+      "minecraft:creeper": "2025-04-19 18:17:20 +0000",
+      "minecraft:zombie": "2025-04-19 01:31:53 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-04-19 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:49:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:46:47 +0000"
     },
     "done": true
   },
@@ -1132,9 +985,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
     "done": true
   },
@@ -1150,6 +1027,24 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-04-19 02:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-19 18:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:45:24 +0000"
@@ -1162,9 +1057,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-19 00:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-19 01:48:07 +0000"
     },
     "done": true
   },
@@ -1180,9 +1105,21 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-19 01:55:08 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-04-19 03:29:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
     },
     "done": true
   },
@@ -1198,6 +1135,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:51:08 +0000"
@@ -1207,6 +1150,12 @@
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-04-19 00:49:34 +0000"
     },
     "done": true
   },
