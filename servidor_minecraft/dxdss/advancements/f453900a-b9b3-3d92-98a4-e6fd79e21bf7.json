@@ -213,6 +213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 19:49:29 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
@@ -517,6 +523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 19:49:29 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
@@ -526,6 +538,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 19:49:29 +0000"
     },
     "done": true
   },
@@ -544,6 +562,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-04-19 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 19:49:29 +0000"
     },
     "done": true
   },
@@ -844,6 +868,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-04-19 01:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 19:49:29 +0000"
     },
     "done": true
   },
@@ -1199,6 +1229,12 @@
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-19 19:49:29 +0000"
     },
     "done": true
   },
