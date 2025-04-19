@@ -1593,3 +1593,27 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Apr2025 19:54:51.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Ignis
 [19Apr2025 19:54:59.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12540ms or 250 ticks behind
 [19Apr2025 19:55:15.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was burnt to a crisp whilst fighting Ignis
+[19Apr2025 19:55:27.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13543ms or 270 ticks behind
+[19Apr2025 19:55:28.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Stopping the server]
+[19Apr2025 19:55:29.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Apr2025 19:55:29.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Apr2025 19:55:29.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[19Apr2025 19:55:29.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[19Apr2025 19:55:29.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchurritoo lost connection: Server closed
+[19Apr2025 19:55:29.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchurritoo left the game
+[19Apr2025 19:55:29.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Apr2025 19:55:32.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:overworld
+[19Apr2025 19:55:40.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/tht:dimension
+[19Apr2025 19:55:40.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/twilightforest:twilight_forest
+[19Apr2025 19:55:40.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/aether:the_aether
+[19Apr2025 19:55:40.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_nether
+[19Apr2025 19:55:52.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_end
+[19Apr2025 19:55:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dxdss): All chunks are saved
+[19Apr2025 19:55:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[19Apr2025 19:55:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Apr2025 19:55:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19Apr2025 19:55:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Apr2025 19:55:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Apr2025 19:55:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Apr2025 19:55:54.927] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Apr2025 19:55:54.928] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
