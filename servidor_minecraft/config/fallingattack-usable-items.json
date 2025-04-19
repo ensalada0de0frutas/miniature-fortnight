@@ -20,5 +20,6 @@
     "spartanweaponry:diamond_scythe": true,
     "minecraft:chainmail_chestplate": false,
     "minecraft:iron_helmet": false,
-    "minecraft:diamond_helmet": false
+    "minecraft:diamond_helmet": false,
+    "minecraft:golden_boots": false
 }

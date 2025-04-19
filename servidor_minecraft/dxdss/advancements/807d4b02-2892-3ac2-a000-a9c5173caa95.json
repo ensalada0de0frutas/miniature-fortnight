@@ -1074,6 +1074,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2025-04-19 19:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-13 00:08:58 +0000"
@@ -1767,6 +1773,14 @@
       "give_recipe": "2025-04-12 19:30:09 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-04-19 19:28:23 +0000",
+      "junk": "2025-04-19 19:28:30 +0000",
+      "treasure": "2025-04-19 19:28:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {

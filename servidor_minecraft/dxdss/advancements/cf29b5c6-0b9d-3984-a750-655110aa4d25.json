@@ -512,6 +512,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/inferno/root": {
+    "criteria": {
+      "requirement": "2025-04-19 19:39:42 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2025-04-18 22:10:52 +0000",
