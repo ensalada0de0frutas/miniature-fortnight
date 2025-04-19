@@ -512,6 +512,12 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 21:27:05 +0000"
@@ -775,6 +781,12 @@
       "give_recipe": "2025-04-13 19:49:00 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {
@@ -1052,6 +1064,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -1081,6 +1099,12 @@
       "give_recipe": "2025-04-13 19:49:00 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
   },
   "quark:get_forgotten_hat": {
     "criteria": {
@@ -1184,6 +1208,12 @@
       "give_recipe": "2025-04-13 23:30:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/mahogany/crafting_table_from_mahogany_planks_woodcutting": {
     "criteria": {
@@ -1361,6 +1391,12 @@
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
@@ -1804,6 +1840,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_keep_kayra": {
     "criteria": {
       "location0": "2025-04-17 06:29:20 +0000"
@@ -1930,6 +1972,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-13 04:21:28 +0000"
@@ -2007,6 +2055,12 @@
       "give_recipe": "2025-04-13 04:03:26 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/witch_hazel/barrel_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
@@ -2417,17 +2471,35 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_stripped_witch_hazel_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:49:00 +0000"
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:49:00 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {

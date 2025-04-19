@@ -1361,3 +1361,62 @@ java.lang.IllegalStateException: Chunk not there when requested
 [19Apr2025 01:08:07.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2348ms or 46 ticks behind
 [19Apr2025 01:08:14.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 0.054253482801414066,0.8289689524971209,-10.089615477954794
 [19Apr2025 01:08:37.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[19Apr2025 01:08:51.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -1.7075034083663923,0.6874900919654863,-9.895685283254352
+[19Apr2025 01:08:57.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4632ms or 92 ticks behind
+[19Apr2025 01:09:06.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -0.04761258386588452,-0.4015314799324585,-10.140024050802822
+[19Apr2025 01:09:39.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27233ms or 544 ticks behind
+[19Apr2025 01:09:45.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -0.06529897861855716,1.7463937633202846,-10.002494075319191
+[19Apr2025 01:09:50.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -1.3540017565724156,-4.057535854000065,-9.319221641779222
+[19Apr2025 01:09:59.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 1.92028516622986,-0.14744483020085397,-10.094874619537222
+[19Apr2025 01:10:07.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13172ms or 263 ticks behind
+[19Apr2025 01:10:12.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 0.7905600021531427,0.20677229544808995,-10.230900608712545
+[19Apr2025 01:10:20.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -3.364780694972069,2.0,-9.51136772420432
+[19Apr2025 01:10:33.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -8.83179503541669,2.459258129214078,-4.056046371499178
+[19Apr2025 01:10:39.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16709ms or 334 ticks behind
+[19Apr2025 01:10:57.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -9.548145208144433,3.1179547051179384,-0.714932270004283
+[19Apr2025 01:11:00.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[19Apr2025 01:11:03.886] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[19Apr2025 01:11:34.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -3.230962870271064,-0.816310812653299,-12.360468022154635
+[19Apr2025 01:11:56.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -2.5868242214859976,0.0,-9.766580779236591
+[19Apr2025 01:11:56.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -0.009954593389920774,2.7906960986185254,-9.828243006508274
+[19Apr2025 01:11:56.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
+[19Apr2025 01:13:24.813] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [enchantmentmachine:main,prettypipes:network] rejected their client side version number
+[19Apr2025 01:13:24.814] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Apr2025 01:13:24.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c37c0bd[id=<null>,name=elchurritoo,properties={},legacy=false] (/127.221.0.19:33905) lost connection: Connection closed - mismatched mod channel list
+[19Apr2025 01:14:16.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -7.040455567355593,-3.395198602897324,6.447998799404331
+[19Apr2025 01:14:16.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5177ms or 103 ticks behind
+[19Apr2025 01:14:20.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -6.7890620938326265,-4.10948640493865,6.2259534105368175
+[19Apr2025 01:14:23.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -12.43049565326396,5.079647661752915,11.397530503136977
+[19Apr2025 01:14:28.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -10.480876928956718,-0.8163108126532848,7.317257281084949
+[19Apr2025 01:14:34.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -7.523521426463844,-3.996020458656716,5.361041861075591
+[19Apr2025 01:14:38.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -8.186998876965504,-4.110258183638791,5.077997845665891
+[19Apr2025 01:14:42.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -8.430625821058698,-2.1043674295421226,5.458302822264727
+[19Apr2025 01:14:48.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -9.578306979213039,0.9782252925873252,6.679904205964249
+[19Apr2025 01:14:55.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -9.277020066779187,-2.5958646290746117,6.155952621993947
+[19Apr2025 01:15:06.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -11.711033866877415,-0.9304855751632743,5.67680416802682
+[19Apr2025 01:15:06.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -1.1069138141951953,1.7116208367686454,-9.871308515999772
+[19Apr2025 01:15:09.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -0.1947312866914217,-8.482850309876454,-6.162275520833646
+[19Apr2025 01:15:09.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -8.133980240772416,-4.4196887333805535,3.9030740566099666
+[19Apr2025 01:15:12.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -0.3116624814588249,-9.815798296037343,-2.536632161572925
+[19Apr2025 01:15:12.026] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:15:12.026] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:15:12.026] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:15:12.026] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:15:19.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -11.2962500133699,-1.158835100678516,7.618820838723764
+[19Apr2025 01:15:19.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 0.8573385798940762,-9.60202240847596,-3.6087496325399115
+[19Apr2025 01:15:23.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 0.010522450365897384,-8.757394758250229,-4.896539325191043
+[19Apr2025 01:15:23.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -5.966385555454281,-4.876387784051531,7.312515672338691
+[19Apr2025 01:15:26.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -0.3967984481505482,-10.872175995358702,-2.1144795876025455
+[19Apr2025 01:15:28.786] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[19Apr2025 01:15:28.787] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[19Apr2025 01:15:29.321] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 879d922d-7067-47f9-a74c-af9ba29259cc
+[19Apr2025 01:15:29.353] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7e38d26c-65b3-40f4-9f62-eb36394da7c0
+[19Apr2025 01:15:29.354] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/miniature-fortnight/servidor_minecraft/./crash-reports/crash-2025-04-19_01.15.29-server.txt
+[19Apr2025 01:15:32.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -2.723342994268478,-8.528531539340662,-4.706978053945932
+[19Apr2025 01:15:32.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -3.5455117775366034,-1.0,9.467081236187937
+[19Apr2025 01:15:32.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Apr2025 01:15:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Apr2025 01:15:32.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[19Apr2025 01:15:32.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[19Apr2025 01:15:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Apr2025 01:15:34.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:overworld
