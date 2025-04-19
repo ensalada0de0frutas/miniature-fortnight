@@ -2404,6 +2404,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-19 19:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-17 17:30:19 +0000"

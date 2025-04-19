@@ -1351,3 +1351,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Apr2025 18:59:23.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> lo mate a puños HJDGFJD
 [19Apr2025 18:59:35.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> pedilo JAJAJA
 [19Apr2025 19:01:36.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was killed by Sofx0Loder using magic
+[19Apr2025 19:03:28.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[19Apr2025 19:07:56.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [War Pigs]
+[19Apr2025 19:11:18.998] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/74865, l='ServerLevel[dxdss]', x=-371.30, y=19.00, z=77.30] died: Desert Blaze was slain by Sofx0Loder
+[19Apr2025 19:11:21.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76095, l='ServerLevel[dxdss]', x=92.64, y=100.40, z=-356.47] died: Desert Blaze was slain by Flancito0_ using    [El incinerador de anos]
+[19Apr2025 19:11:21.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76097, l='ServerLevel[dxdss]', x=93.70, y=99.80, z=-357.06] died: Desert Blaze was slain by Flancito0_ using    [El incinerador de anos]
