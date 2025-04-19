@@ -1356,3 +1356,55 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Apr2025 19:11:18.998] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/74865, l='ServerLevel[dxdss]', x=-371.30, y=19.00, z=77.30] died: Desert Blaze was slain by Sofx0Loder
 [19Apr2025 19:11:21.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76095, l='ServerLevel[dxdss]', x=92.64, y=100.40, z=-356.47] died: Desert Blaze was slain by Flancito0_ using    [El incinerador de anos]
 [19Apr2025 19:11:21.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76097, l='ServerLevel[dxdss]', x=93.70, y=99.80, z=-357.06] died: Desert Blaze was slain by Flancito0_ using    [El incinerador de anos]
+[19Apr2025 19:14:49.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/78373, l='ServerLevel[dxdss]', x=-337.22, y=54.00, z=399.40] died: Piglin Civilian suffocated in a wall
+[19Apr2025 19:17:58.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[19Apr2025 19:18:04.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> leo tenes yunque?
+[19Apr2025 19:18:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> en mi casa
+[19Apr2025 19:18:16.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[19Apr2025 19:18:20.038] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=104, z=92}
+[19Apr2025 19:18:27.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> que parte
+[19Apr2025 19:18:33.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19Apr2025 19:18:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> pa los cuadros
+[19Apr2025 19:18:44.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> en el primer piso
+[19Apr2025 19:18:52.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Apr2025 19:19:10.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[19Apr2025 19:19:13.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/85723, l='ServerLevel[dxdss]', x=742.78, y=58.00, z=-895.60] died: Village Guard suffocated in a wall
+[19Apr2025 19:19:20.808] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=113, z=106}
+[19Apr2025 19:19:20.809] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=113, z=107}
+[19Apr2025 19:19:20.809] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=113, z=108}
+[19Apr2025 19:19:20.809] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=113, z=105}
+[19Apr2025 19:19:23.538] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=104, z=125}
+[19Apr2025 19:19:23.549] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=131, z=95}
+[19Apr2025 19:19:23.697] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-180, y=131, z=95}
+[19Apr2025 19:19:23.698] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=131, z=95}
+[19Apr2025 19:19:28.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-37, y=104, z=131}
+[19Apr2025 19:19:28.805] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=131, z=104}
+[19Apr2025 19:19:29.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-180, y=131, z=104}
+[19Apr2025 19:19:29.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=131, z=104}
+[19Apr2025 19:19:30.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4981ms or 99 ticks behind
+[19Apr2025 19:19:47.961] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
+[19Apr2025 19:19:50.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5057ms or 101 ticks behind
+[19Apr2025 19:19:55.070] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[19Apr2025 19:19:59.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/83959, l='ServerLevel[dxdss]', x=-336.32, y=21.10, z=1031.56] died: Pipeline Sentry was slain by Sofx0Loder
+[19Apr2025 19:20:10.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Apr2025 19:20:27.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[19Apr2025 19:20:44.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[19Apr2025 19:21:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchurritoo has made the advancement [Enchanter]
+[19Apr2025 19:21:10.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> oso
+[19Apr2025 19:21:10.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Apr2025 19:21:27.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> menos mal era el yunque
+[19Apr2025 19:21:31.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19Apr2025 19:21:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> JHFJD
+[19Apr2025 19:21:40.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> no encontre y directo lo encante
+[19Apr2025 19:21:48.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> te deje mis lapiz por si
+[19Apr2025 19:21:49.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[19Apr2025 19:21:55.406] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Apr2025 19:21:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[19Apr2025 19:22:18.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchurritoo has made the advancement [Incendium]
+[19Apr2025 19:22:18.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchurritoo has made the advancement [We Need to Go Deeper]
+[19Apr2025 19:22:50.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[19Apr2025 19:23:02.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchurritoo moved too quickly! -9.856765479955016,-1.589608718893274,-1.2716766559342432
+[19Apr2025 19:23:02.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5489ms or 109 ticks behind
+[19Apr2025 19:23:19.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[19Apr2025 19:23:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[19Apr2025 19:23:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
