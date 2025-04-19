@@ -3,5 +3,7 @@
     "minecraft:player": false,
     "cataclysm:maledictus": true,
     "naturalist:bluejay": false,
-    "quark:shiba": false
+    "quark:shiba": false,
+    "minecraft:skeleton": true,
+    "minecraft:zombie": true
 }

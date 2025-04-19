@@ -453,7 +453,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -676,7 +676,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -977,7 +977,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -1007,7 +1007,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -1110,7 +1110,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -1288,7 +1288,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -1313,6 +1313,12 @@
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-04-19 01:35:19 +0000"
     },
     "done": true
   },
@@ -1580,6 +1586,8 @@
   "twilightforest:arborist": {
     "criteria": {
       "canopy_trapdoor": "2025-04-13 22:20:15 +0000",
+      "twilight_oak_wood": "2025-04-19 03:58:17 +0000",
+      "canopy_leaves": "2025-04-19 04:03:06 +0000",
       "twilight_oak_sapling": "2025-04-15 01:07:13 +0000",
       "canopy_planks": "2025-04-13 22:20:04 +0000",
       "canopy_sapling": "2025-04-13 22:16:43 +0000"
@@ -1768,7 +1776,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -1882,7 +1890,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -1948,7 +1956,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -2156,6 +2164,12 @@
     },
     "done": true
   },
+  "knight_quest:kq_forze_quest": {
+    "criteria": {
+      "kq_forze_quest": "2025-04-19 02:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:56:41 +0000"
@@ -2171,6 +2185,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:kill_cicada": {
+    "criteria": {
+      "kill_cicada": "2025-04-19 03:59:13 +0000"
     },
     "done": true
   },
@@ -2380,7 +2400,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
@@ -2398,15 +2418,16 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 01:14:06 +0000"
+      "requirement": "2025-04-19 04:26:25 +0000",
+      "log_spam_fixer": "2025-04-19 04:26:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
