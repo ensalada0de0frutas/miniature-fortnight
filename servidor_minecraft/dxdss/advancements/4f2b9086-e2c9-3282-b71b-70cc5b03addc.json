@@ -2320,6 +2320,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-04-13 23:03:09 +0000",
+      "cooked_meef": "2025-04-19 18:08:04 +0000",
       "torchberries": "2025-04-13 23:36:26 +0000"
     },
     "done": false

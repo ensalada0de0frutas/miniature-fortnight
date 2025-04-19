@@ -1220,3 +1220,37 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Apr2025 18:10:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> igual
 [19Apr2025 18:11:00.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> seguire bajando
 [19Apr2025 18:11:09.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> si encuentras a jefe llama
+[19Apr2025 18:11:24.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> encontre un amuleto
+[19Apr2025 18:11:34.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> q hace?
+[19Apr2025 18:11:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> nose
+[19Apr2025 18:11:49.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> estaba buscando a ignis y me llevo a donde estaba el ignis que mato leo
+[19Apr2025 18:11:59.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> xd
+[19Apr2025 18:13:22.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> leo tas en tu casa?
+[19Apr2025 18:13:25.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[19Apr2025 18:13:26.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no
+[19Apr2025 18:13:32.434] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[19Apr2025 18:13:32.434] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[19Apr2025 18:13:32.457] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[19Apr2025 18:13:32.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> crjo
+[19Apr2025 18:13:39.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[19Apr2025 18:13:47.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 9.307506527613441,-2.5899791718382374,2.89961823494923
+[19Apr2025 18:13:47.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchurritoo moved too quickly! 0.5609639769645582,-10.469735249065089,-0.6932130302766382
+[19Apr2025 18:13:49.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> estoy a 40km de mi casa xd
+[19Apr2025 18:13:57.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[19Apr2025 18:13:59.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> lagaso
+[19Apr2025 18:14:01.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7722ms or 154 ticks behind
+[19Apr2025 18:14:32.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchurritoo> casi me violan
+[19Apr2025 18:15:38.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[19Apr2025 18:15:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[19Apr2025 18:15:38.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[19Apr2025 18:15:44.891] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32b3cb4e
+[19Apr2025 18:15:44.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:34085] logged in with entity id 20461 at (-3293.4245372186388, -23.0, -2549.9443819653357)
+[19Apr2025 18:15:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[19Apr2025 18:15:45.260] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[19Apr2025 18:15:45.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[19Apr2025 18:15:48.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[19Apr2025 18:15:49.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[19Apr2025 18:15:49.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[19Apr2025 18:18:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2123.500000, 7.500000, -2251.500000]
+[19Apr2025 18:18:19.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[19Apr2025 18:18:22.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
